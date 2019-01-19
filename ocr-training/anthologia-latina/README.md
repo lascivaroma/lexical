@@ -19,6 +19,6 @@ ketos extract pages/*.html -o extract -u NFD -s
 Characters count were produce with
 
 ```shell
-sed 's/\(.\)/\1\n/g' extract/*.txt | sort | uniq -c | sort -k 2 > characters.with_case.txt
+awk '{for (i=1;i<=NF;i++) a[$i]++} END{for (c in a) print c,a[c]}' FS="" extract/*.txt > characters.with_case.txt
 sed 's/\(.\)/\1\n/g' extract/*.txt | sort | uniq -ic | sort -k 2 > characters.txt
 ```
