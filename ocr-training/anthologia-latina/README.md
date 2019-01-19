@@ -14,3 +14,11 @@ Install [Kraken](http://kraken.re) ([Github](https://github.com/mittagessen/krak
 ```shell
 ketos extract pages/*.html -o extract -u NFD -s
 ```
+## Characters count
+
+Characters count were produce with
+
+```shell
+sed 's/\(.\)/\1\n/g' extract/*.txt | sort | uniq -c | sort -k 2 > characters.with_case.txt
+sed 's/\(.\)/\1\n/g' extract/*.txt | sort | uniq -ic | sort -k 2 > characters.txt
+```
