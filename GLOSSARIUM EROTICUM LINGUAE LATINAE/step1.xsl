@@ -54,14 +54,14 @@
     
     <xsl:template match="blockquote">
         <cit>
-            <xsl:apply-templates select=".//br/preceding-sibling::text()|.//br/preceding-sibling::i"/>
+            <quote><xsl:apply-templates select=".//br/preceding-sibling::text()|.//br/preceding-sibling::i"/></quote>
             <bibl>
                 <xsl:apply-templates mode="bibl" select=".//br/following-sibling::text()|.//br/following-sibling::i"/>
             </bibl>
         </cit>
     </xsl:template>
     
-    <xsl:template match="i[ancestor::blockquote or ancestor::*[@class='pline']]">
+    <xsl:template match="i">
         <xsl:text> </xsl:text><emph><xsl:apply-templates /></emph><xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="i[ancestor::blockquote]" mode="bibl">
