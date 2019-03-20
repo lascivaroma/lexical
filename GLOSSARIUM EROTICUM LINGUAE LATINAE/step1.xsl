@@ -62,12 +62,9 @@
     </xsl:template>
     
     <xsl:template match="i">
-        <xsl:text> </xsl:text><emph><xsl:apply-templates /></emph><xsl:text> </xsl:text>
+        <emph><xsl:apply-templates /></emph>
     </xsl:template>
     <xsl:template match="i[ancestor::blockquote]" mode="bibl">
         <title><xsl:apply-templates /></title>
-    </xsl:template>
-    <xsl:template match="text()">
-        <xsl:value-of select=" normalize-space(.)" />
     </xsl:template>
 </xsl:stylesheet>
