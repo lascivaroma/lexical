@@ -10536,7 +10536,9 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Notitia, Cognitio</form>
+				<form type="lemma">Notitia</form>
+				<pc>, v.</pc>
+				<form type="variant">Cognitio</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
