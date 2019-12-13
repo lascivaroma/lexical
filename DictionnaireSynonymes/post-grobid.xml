@@ -17,22 +17,6 @@
 	</teiHeader>
 	<text>
 		<body>
-			<fw type="header">DE SYNONYMIE LATINE. 63 culièrement pour la plus petite de toutes,
-				pour le de¬</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 67 Delictum. Peccatum. Malefactum. Maleficium.
-				Faci¬</fw>
-			<fw type="header">Injuria, Contumelia. MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 201 gnée d'un temps froid et orageux; nimbus,
-				d'un temps</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 205 ment d'étude, c'est un décor indispensable
-				dans une salle</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 229 de bien-être; valens et validus, comme une
-				faculté qui</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 251 bras, le recipiens sur son coeur, le
-				suscipiens sur les bras</fw>
-			<entry>
-				<form type="variant">A</form>
-			</entry>
 			<entry>
 				<form type="lemma">Abdere</form>
 				<pc>, v.</pc>
@@ -611,6 +595,11 @@
 				<pc>, v.</pc>
 				<form type="variant">Rus et Villa</form>
 			</entry>
+			<entry>
+				<form type="lemma">Affirmare</form>
+				<pc>, v.</pc>
+				<form type="variant">Dicere</form>
+			</entry>
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">AEstimare</form>
@@ -1140,8 +1129,8 @@
 					l'équi¬ valent grec ζώον. Animans précise l'état dans lequel se trouve l'être :
 					il vit, il respire; l'opposé est exanimus. On dit animalium cadavera; animantium
 					cadavera ferait un non-sens. Bellua, bestia et pecus ont trait à l'intelligence
-					: homo; bestia et fera expriment une sorte de rapport mo¬ ral, c'est la brute
-					hostile à l'homme</entry>
+					: c'est l'animal déraisonnable par contraste direct avec homo; bestia et fera
+					expriment une sorte de rapport mo¬ ral, c'est la brute hostile à l'homme</entry>
 				<pc>. 2.</pc>
 				<entry>Bellua désigne particulièrement un animal grand et lourd, par exemple un
 					éléphant, une baleine, par préfé¬ rence les monstres marins; pecus, un animal
@@ -1175,7 +1164,8 @@
 				<entry>Antiquum et priscum, ce qui a existé autrefois et qui n'est'plus,par
 					opposition à novum, comme παλαιός; vetus et vetustum, ce qui existe depuis
 					longtemps et n'a plus de part ni aux inconvénients ni aux privilèges de la
-					γερούσιος. Antiquus homo, homme du bon vieux temps;</entry>
+					jeunesse, par opposition à recens, comme γέρων, γεραιος, γερούσιος. Antiquus
+					homo, homme du bon vieux temps;</entry>
 			</entry>
 			<entry>
 				<form type="lemma">vetus</form>
@@ -1357,7 +1347,8 @@
 				<pc>. 1.</pc>
 				<entry>Arcessere et accersere, termes généraux, signifient simplement faire venir;
 					accire, inviter, suppose qu'on s'adresse à un égal ; evocare, mander, à un
-					inférieur. L'arcessens pousse à se Tu invita mulieres, ego accivero pueros.
+					inférieur. L'arcessens pousse à se présenter, l'acciens engage, l'evocans
+					ordonne. Cic. Att. V, 1. Tu invita mulieres, ego accivero pueros.
 					Chargeons-nous. » toi de prier les femmes, moi d'inviter les jeunes gens.
 					Comparez avec Dej. 5. Venit vel rogatus ut amicus, vel arcessitus ut socius, vel
 					evocatus ut qui senatui parere didi¬ cisset. Il s'est présenté ou en ami dont on
@@ -3686,7 +3677,8 @@
 					nous en sommes certainement débarrassés. Et Ovid. Trist. IV, 1, 23. Et culpam in
 					facto, non scelus esse meo. Et s'il y a faute dans mon fait, il n'y a point de
 					crime. Dans ces exemples le terme le plus gé¬ néral pour toute espèce de faute,
-					culpa, se prend parti¬ lictum</entry>
+					culpa, se prend parti¬ ulièrement pour la plus petite de toutes, pour le
+					de¬lictum</entry>
 				<pc>. 2.</pc>
 				<entry>Culpa et noxia supposent une action dommageable; vitium, une action ou une
 					qualité blâmable, et même un défaut naturel dont personne ne peut nous faire un
@@ -4009,7 +4001,8 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">nus. Flagitium. Scelus. Nefas. Impietas</form>
+				<form type="lemma">Delictum. Peccatum. Malefactum. Maleficium. Facinus. Flagitium.
+					Scelus. Nefas. Impietas</form>
 				<pc>. 1.</pc>
 				<entry>Delictum et peccatum, transgression légère : delictum, des lois posi¬ tives,
 					par légèreté ; peccatum, des lois de la nature et de la raison, par
@@ -4052,6 +4045,11 @@
 				<form type="lemma">Delubrum</form>
 				<pc>, v.</pc>
 				<form type="variant">Templum</form>
+			</entry>
+			<entry>
+				<form type="lemma">Demens</form>
+				<pc>, v.</pc>
+				<form type="variant">Amens</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -4861,7 +4859,8 @@
 				<form type="lemma">Dumi. Sentes. Vepres</form>
 				<pc>.</pc>
 				<sense>Dumi, fourrés de broussailles qui offrent un aspect sauvage; sentes, buissons
-					épineux où l'on se blesse; vepres réunit les deux idées : brous¬</sense>
+					épineux où l'on se blesse; vepres réunit les deux idées : broussailles épineuses
+					qui font du sol un lieu sauvage.</sense>
 				<form type="lemma">Duplex. Duplum. Geminus. Dupliciter. Bifariam</form>
 				<pc>. 1.</pc>
 				<entry>Du¬ plex, double en parlant de quantités déterminées qu'il suffit de compter;
@@ -7279,7 +7278,7 @@
 			</entry>
 			<pc>.</pc>
 			<dictScrap>
-				<form type="variant"></form>
+				<form type="variant"/>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Humanitas. Comitas</form>
@@ -8992,12 +8991,13 @@
 					libertinus, par rapport à sa condition et par opposition à civis et inge¬ nuus.
 					Sen. Contr. III, 21. Quaerendus mihi gener erat li¬ bertinus; quid ergo? alieno
 					potius liberto? J'étais réduit à chercher un gendre dans la classe des
-					affranchis. Eh bien, pourquoi pas le mien, plutôt que celui d'un autre? Cic. Verr. 1, 47. Trebonius fecit heredem libertum suum... Equiti Romano libertinus homo fit
-					heres. Trébonius prit son affranchi pour héritier. Un homme de la classe des
-					affranchis devient héritier d'un chevalier romain. Tac. Ann. XIII, 27. Si
-					separarentur libertini, manifestam fore penuriam ingenuorum. On n'avait qu'à
-					compter tout ce qui appartenait à la classe des affranchis; on ne verrait que
-					trop clairement combien on manquait d'hommes libres</entry>
+					affranchis. Eh bien, pourquoi pas le mien, plutôt que celui d'un autre? Cic.
+					Verr. 1, 47. Trebonius fecit heredem libertum suum... Equiti Romano libertinus
+					homo fit heres. Trébonius prit son affranchi pour héritier. Un homme de la
+					classe des affranchis devient héritier d'un chevalier romain. Tac. Ann. XIII,
+					27. Si separarentur libertini, manifestam fore penuriam ingenuorum. On n'avait
+					qu'à compter tout ce qui appartenait à la classe des affranchis; on ne verrait
+					que trop clairement combien on manquait d'hommes libres</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -9555,7 +9555,7 @@
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">Malefactum , Maleficium,</form>
-				<pc>, v.</form>
+				<pc>, v.</pc>
 				<form type="variant">Delictum</form>
 			</entry>
 			<pc>.</pc>
@@ -9933,10 +9933,10 @@
 				<pc>. 2.</pc>
 				<entry>Merere est habituellement transitif, il se joint à un accusatif ou à une
 					proposition explicative; mereri est in¬ transitif, et se joint à une expression
-					adverbiale. Cic. Rosc. Com. 15. Fructum quem meruerunt retribuam. Je leur payerai le tribut d'éloges qu'ils
-					ont mérité. Comparez avec Catil. II, 2, 4. Si illum ut erat (sous-entendu : de
-					me) meritus morte mulctassem. Si je lui avais infligé la peine de mort comme je
-					le lui devais</entry>
+					adverbiale. Cic. Rosc. Com. 15. Fructum quem meruerunt retribuam. Je leur
+					payerai le tribut d'éloges qu'ils ont mérité. Comparez avec Catil. II, 2, 4. Si
+					illum ut erat (sous-entendu : de me) meritus morte mulctassem. Si je lui avais
+					infligé la peine de mort comme je le lui devais</entry>
 				<pc>. 3.</pc>
 				<entry>Merere, employé comme verbe intransitif ou sans complément, signifie servir
 					en qualité de soldat, par el¬ lipse de stipendia ; mereri, employé comme verbe
@@ -10325,9 +10325,10 @@
 					une pièce de terre pour en marquer les limites et pour la protéger contre les
 					voleurs, la clôture d'un jardin, d'un vignoble, θριγκός. Virg. AEn. VI, 549.
 					Moenia lata videt triplici circumdata muro. Il voit une vaste enceinte entourée
-					d'un triple mur. Tac. Ann. XV, 43. >Nero instituit, ut urbis domus non communione parietum sed propriis quaeque
-					muris ambi¬ rentur. Néron décida que les maisons de Rome n'auraient plus de murs
-					mitoyens, que chacune aurait les siens</entry>
+					d'un triple mur. Tac. Ann. XV, 43. >Nero instituit, ut urbis domus non
+					communione parietum sed propriis quaeque muris ambi¬ rentur. Néron décida que
+					les maisons de Rome n'auraient plus de murs mitoyens, que chacune aurait les
+					siens</entry>
 				<pc>. 2.</pc>
 				<entry>Muri, moenia, etc., murs en bon état d'entretien ; parietinae, murs en
 					ruine</entry>
@@ -10994,12 +10995,12 @@
 					positif, comme la haine, μῖσος, c'est un sentiment profondément enraciné qui
 					s'oppose à amor. Vinvidia est le commencement de l'odii. V'invidia ne s'attache
 					qu'aux personnes; V'odium s'attache aux personnes et aux choses. Tac. Ann. II,
-					56. Armenii ... saepius discordes sunt, adversus Romanos odio et in Parthum invidia. Les
-					Arméniens sont très-souvent partagés entre leur haine pour les Romains et leur
-					mal¬ veillance pour les Parthes. XIII, 15. Nero intellecta invi¬ dia odium
-					intendit. Ces symptômes de malveillance que Néron discerna portèrent sa haine au
-					comble. Plin. Pan. 84, 2. Exardescit invidia cujus finis est odium. Elle
-					s'enflamme au contact de la malveillance qui aboutit à la haine</entry>
+					56. Armenii ... saepius discordes sunt, adversus Romanos odio et in Parthum
+					invidia. Les Arméniens sont très-souvent partagés entre leur haine pour les
+					Romains et leur mal¬ veillance pour les Parthes. XIII, 15. Nero intellecta invi¬
+					dia odium intendit. Ces symptômes de malveillance que Néron discerna portèrent
+					sa haine au comble. Plin. Pan. 84, 2. Exardescit invidia cujus finis est odium.
+					Elle s'enflamme au contact de la malveillance qui aboutit à la haine</entry>
 				<pc>. 3.</pc>
 				<entry>Inimicitia, toute espèce d'inimitié fondée sur l'an¬ tipathie ou sur de
 					mauvais rapports, δυσμένεια, Ιχθρα ; si¬ multas, inimitié politique entre rivaux
@@ -11129,12 +11130,12 @@
 					discours, au conseil, comme ἐργασία ; labor, activité pleine d'efforts et suivie
 					de fatigue, le travail, par opposition au plaisir, comme πόνος. Plaut. Aul. II,
 					3, 7. Opera huc est conducta vestra, non oratio. On a loué vos bras, non votre
-					langue. Cic. Rep. I, 9. Otiosiorem opera quam animo. Plutôt désoeu¬ vré que libre d'esprit. Liv.
-					XXII, 22. Ut opera quoque im¬ pensa consilium adjuvem meum. Pour mettre la main
-					à l'exécution de mon dessein. Mais V, 4. Labor voluptasque dissimillima natura,
-					societate quadam naturali inter se sunt conjuncta. Le travail et le plaisir dont
-					la nature a fait deux extrêmes et qu'elle n'a pas laissé d'unir entre eux par
-					une sorte d'association</entry>
+					langue. Cic. Rep. I, 9. Otiosiorem opera quam animo. Plutôt désoeu¬ vré que
+					libre d'esprit. Liv. XXII, 22. Ut opera quoque im¬ pensa consilium adjuvem meum.
+					Pour mettre la main à l'exécution de mon dessein. Mais V, 4. Labor voluptasque
+					dissimillima natura, societate quadam naturali inter se sunt conjuncta. Le
+					travail et le plaisir dont la nature a fait deux extrêmes et qu'elle n'a pas
+					laissé d'unir entre eux par une sorte d'association</entry>
 				<pc>. 2.</pc>
 				<entry>Industria, gnavitas et sedulitas présentent l'activité comme une qualité
 					habituelle, par opposition à la paresse : industria, activité qui se déploie
@@ -12215,15 +12216,9 @@
 				<form type="lemma">Plerique. Plurimi</form>
 				<pc>.</pc>
 				<sense>Plerique, superlatif absolu, un très¬ grand nombre; plurimi, superlatif
-					relatif, la plupart</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Tac. Ann</form>
-				<pc>.</pc>
-				<sense>XIII, 27. Plurimis equitum, plerisque senato¬ rum non aliunde originem trahi.
-					La plupart des cheva¬ liers, un très-grand nombre de sénateurs n'avaient pas
-					d'autre origine</sense>
+					relatif, la plupart. Tac. Ann . XIII, 27. Plurimis equitum, plerisque senato¬
+					rum non aliunde originem trahi. La plupart des cheva¬ liers, un très-grand
+					nombre de sénateurs n'avaient pas d'autre origine</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -12249,7 +12244,10 @@
 				<pc>.</pc>
 				<sense>Pluvia, phénomène bienfaisant, pluie générale qui abreuve le sol altéré,
 					ὑετός; imber et nimbus, phénomène désagréable, pluie locale qui vient gâter une
-					belle journée : imber, lorsqu'elle est accompa¬</sense>
+					belle journée : imber, lorsqu'elle est accompagnée d'un temps froid et orageux;
+					nimbus, d'un temps couvert</sense>
+			</entry>
+			<entry>
 				<form type="lemma">Pirata</form>
 				<pc>, v.</pc>
 				<form type="variant">Praeda</form>
@@ -12258,12 +12256,7 @@
 			<entry>
 				<form type="lemma">Plaga</form>
 				<pc>, v.</pc>
-				<form type="variant">Locus</form>
-				<sense>, Rete et Vul¬ nus</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">couvert</form>
+				<form type="variant">Locus, Rete et Vul¬ nus</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -12474,11 +12467,11 @@
 					intérieure, indépendante du con¬ cours et de la bonne volonté d'autrui.
 					Potentia, pouvoir de fait qui se fait sentir à yolonté, δύναμις; potentatus,
 					rang du souverain reconnu par le peuple, δuναστεία; potestas, autorité légitime
-					et légalement déférée, ἐξουσία. Tac. Ann. XIII, 49. Nihil tam fluxum est quam fama potentiae non sua vi nixae. Rien de si fragile
-					que le crédit d'un pouvoir qui n'a point en lui-même les éléments de sa force.
-					Vis, la force active et agressive, comme faculté de contraindre les autres,
-					κράτος; robur, la force au repos, comme faculté de résister et de durer,
-					δώμn</sense>
+					et légalement déférée, ἐξουσία. Tac. Ann. XIII, 49. Nihil tam fluxum est quam
+					fama potentiae non sua vi nixae. Rien de si fragile que le crédit d'un pouvoir
+					qui n'a point en lui-même les éléments de sa force. Vis, la force active et
+					agressive, comme faculté de contraindre les autres, κράτος; robur, la force au
+					repos, comme faculté de résister et de durer, δώμn</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -12554,8 +12547,8 @@
 					vie. Cic. Phil. X, 4. Graecia copiis non instructa solum, sed etiam ornata. La
 					Grèce, qui abonde en ressources solides et même ap¬ parentes. Sen. Tranq. 9.
 					Sicut plerisque libri non studio¬ rum instrumenta, sed coenationum ornamenta
-					sunt. Pour beaucoup de gens, une bibliothèque n'est point un instru¬ à
-					manger</entry>
+					sunt. Pour beaucoup de gens, une bibliothèque n'est point un instrument d'étude,
+					c'est un décor indispensable dans une salle à manger</entry>
 				<pc>. 2.</pc>
 				<entry>Instructus se rapporte à des personnes et à des objets destinés à jouer un
 					rôle offensif ou défensif; exstructus, à des objets dont la destination est
@@ -14105,8 +14098,8 @@
 					état sain et constant. Salubris oratio, langue saine par excellence, pleine
 					d'une vigueur naturelle ; sana oratio, langage sobre et réfléchi</entry>
 				<pc>. 3.</pc>
-				<entry>Sanus et saluber présentent la santé comme un état rend propre à
-					l'action</entry>
+				<entry>Sanus et saluber présentent la santé comme un état rend propre à l'action de
+					bien-être; valens et validus, comme une faculté qui</entry>
 				<pc>. 4.</pc>
 				<entry>Au sens transitif, saluber, salubre, se dit de ce qui procure et conserve la
 					santé, sanitatem, par opposition à pestilens, comme ὑγιεινός; salutaris,
@@ -14814,9 +14807,10 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<entry>dre immobile, arrêter : sistere, en parlant d'un être qui vit et qui court;
-					inhibere, d'un objet inanimé qui a été mis en mouvement. Statuere, fixer à
-					demeure, établir sur un pied solide</entry>
+				<form type="lemma">Sistere. Inhibere. Statuere.</form>
+				<entry> Sistere et inhibere, ren¬dre immobile, arrêter : sistere, en parlant d'un
+					être qui vit et qui court; inhibere, d'un objet inanimé qui a été mis en
+					mouvement. Statuere, fixer à demeure, établir sur un pied solide</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -15498,7 +15492,8 @@
 					exciperé, accueillir ce qui vient à nous, ce que nous attendions, ὑποδέχεσθαι;
 					recipere, prendre sous sa protection, par générosité; suscipere, prendre un
 					fardeau sur soi, entreprendre par dévoue¬ ment. L'accipiens prend dans la main,
-					l'excipiens dans les ou sur le dos</entry>
+					l'excipiens dans les bras, le recipiens sur son coeur, le suscipiens sur les
+					bras ou sur le dos</entry>
 				<pc>. 3.</pc>
 				<entry>Recipere, recouvrer sans qu'il en coûte de la peine; recuperare, regagner par
 					ses efforts. Liv. XLII, 53. Urbem recipit, par une simple occupation. Comparez
@@ -17433,13 +17428,6 @@
 				<form type="variant">Facies</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>Affirmare, v. Dicere.</dictScrap>
-			<dictScrap>c'est l'animal déraisonnable par contraste direct avec</dictScrap>
-			<dictScrap>jeunesse, par opposition à recens, comme γέρων, γεραιος,</dictScrap>
-			<dictScrap>présenter, l'acciens engage, l'evocans ordonne. Cic. Att. V, 1.</dictScrap>
-			<dictScrap>Demens, v. Amens.</dictScrap>
-			<dictScrap>sailles épineuses qui font du sol un lieu sauvage.</dictScrap>
-			<dictScrap>Sistere. Inhibere. Statuere. Sistere et inhibere, ren¬</dictScrap>
 		</body>
 	</text>
 </TEI>
