@@ -6710,8 +6710,10 @@
 			<entry>
 				<form type="lemma">Gestire</form>
 				<pc>, v.</pc>
-				<form type="variant">Velle et</form>
-				<form type="lemma">Gaudere. Gignere</form>
+				<form type="variant">Velle et Gaudere</form>
+			</entry>
+			<entry>
+				<form type="lemma">Gignere</form>
 				<pc>, v.</pc>
 				<form type="variant">Creare</form>
 			</entry>
@@ -7487,18 +7489,17 @@
 			<entry>
 				<form type="lemma">Imbecillis, Imbecillitas</form>
 				<pc>, v.</pc>
-				<form type="variant">Imber</form>
+				<form type="variant">Validus</form>
+			</entry>
+			<entry>
+				<form type="lemma">Imber</form>
 				<pc>, v.</pc>
 				<form type="variant">Pluvia</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">Valid</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Infirmus, Infirmitas</form>
 				<pc>, v.</pc>
-				<form type="variant">Vali¬ du</form>
+				<form type="variant">Validus</form>
 			</entry>
 			<entry>
 				<form type="lemma">Imitatio. AEmulatio. CertatiO. Rivalitas. SimulatiO</form>
@@ -8183,8 +8184,10 @@
 			<entry>
 				<form type="lemma">Interitus</form>
 				<pc>, v.</pc>
-				<form type="variant">Lues et</form>
-				<form type="lemma">Mora. Interlocutio</form>
+				<form type="variant">Lues et Mora.</form>
+			</entry>
+			<entry>
+				<form type="lemma">Interlocutio</form>
 				<pc>, v.</pc>
 				<form type="variant">Intercapedo</form>
 			</entry>
@@ -10031,14 +10034,14 @@
 			<entry>
 				<form type="lemma">Moderatus, Modestia</form>
 				<pc>, v.</pc>
-				<form type="variant">Mo¬ Modicus</form>
+				<form type="variant">Modus</form>
+			</entry>
+			<entry>
+				<form type="lemma">Modicus</form>
 				<pc>, v.</pc>
 				<form type="variant">Medius</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">d</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">MODO</form>
 				<sense>-Modo. Nunc-nunc. Modo-modo ne devrait s'ap¬ pliquer à la rigueur qu'à des
@@ -14480,8 +14483,10 @@
 			<entry>
 				<form type="lemma">Senex</form>
 				<pc>, v.</pc>
-				<form type="variant">Puer et</form>
-				<form type="lemma">Vetus. Sensim</form>
+				<form type="variant">Puer et Vetus</form>
+			</entry>
+			<entry>
+				<form type="lemma">Sensim</form>
 				<pc>, v.</pc>
 				<form type="variant">Paulatim</form>
 			</entry>
@@ -15405,8 +15410,10 @@
 			<entry>
 				<form type="lemma">Sudes</form>
 				<pc>, v.</pc>
-				<form type="variant">Fustis et</form>
-				<form type="lemma">Stipes. Suffragium</form>
+				<form type="variant">Fustis et Stipes</form>
+			</entry>
+			<entry>
+				<form type="lemma">Suffragium</form>
 				<pc>, v.</pc>
 				<form type="variant">Sententia</form>
 			</entry>
@@ -17174,8 +17181,10 @@
 			<entry>
 				<form type="lemma">Vir</form>
 				<pc>, v.</pc>
-				<form type="variant">Homo et</form>
-				<sense>Puer. Virga, Virgultum</sense>
+				<form type="variant">Homo et Puer</form>
+			</entry>
+			<entry>
+				<form type="lemma">Virga, Virgultum</form>
 				<pc>, v.</pc>
 				<form type="variant">Rami</form>
 			</entry>
