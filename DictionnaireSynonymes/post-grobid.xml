@@ -295,12 +295,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">1 Traduction Guéroult</form>
-				<pc>.</pc>
-				<sense>Dans la collection Panckoucke. Cicéron, t. XIII, p. 375</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<form type="lemma">Adigere</form>
 				<pc>, v.</pc>
 				<form type="variant">Cogere</form>
@@ -1164,17 +1158,14 @@
 					opposition à novum, comme παλαιός; vetus et vetustum, ce qui existe depuis
 					longtemps et n'a plus de part ni aux inconvénients ni aux privilèges de la
 					jeunesse, par opposition à recens, comme γέρων, γεραιος, γερούσιος. Antiquus
-					homo, homme du bon vieux temps;</sense>
-			</entry>
-			<entry>
-				<form type="lemma">vetus</form>
-				<sense>, vieillard. Les classiques s'appellent antiqui scripto¬ res, en ce sens que
-					leur siècle est depuis longtemps passé; veteres, en ce sens qu'ils subsistent et
-					servent de modèles depuis deux mille ans. Cic. Verr. II, 21. Vereor ne haec
-					nimis antiqua et jam obsoleta videantur. J'ai peur que ces exemples de
-					modération n'aient vieilli et ne paraissent hors d'usage. Comparez avec Orat. I,
-					37. Ut illi vetus atque usitata exceptio daretur. Pour lui donner le bénéfice de
-					ce privilège ancien et souvent appliqué</sense>
+					homo, homme du bon vieux temps; vetus, vieillard. Les classiques s'appellent
+					antiqui scripto¬ res, en ce sens que leur siècle est depuis longtemps passé;
+					veteres, en ce sens qu'ils subsistent et servent de modèles depuis deux mille
+					ans. Cic. Verr. II, 21. Vereor ne haec nimis antiqua et jam obsoleta videantur.
+					J'ai peur que ces exemples de modération n'aient vieilli et ne paraissent hors
+					d'usage. Comparez avec Orat. I, 37. Ut illi vetus atque usitata exceptio
+					daretur. Pour lui donner le bénéfice de ce privilège ancien et souvent
+					appliqué</sense>
 				<pc>. 2.</pc>
 				<sense>Vetus se rapporte exclusivement à la durée et pré¬ sente l'âge soit comme un
 					avantage, soit comme un désa¬ vantage; vetustus a trait aux privilèges de l'âge
@@ -1236,15 +1227,10 @@
 					comme δνῆλον</sense>
 				<pc>4.</pc>
 				<sense>Palam marque qu'on expose les choses à la vue ài public par effronterie;
-					propalam, par dessein prémédité</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Orat</form>
-				<pc>.</pc>
-				<sense>I, 35. Neque proposito argento neque tabulis et signis propalam collocatis,
-					c'est-à-dire à l'admiration de tout le monde. Comparez avec Pis. 36. Mensis
-					palam pro¬ positis, c'est-à-dire effrontément et sans gêne</sense>
+					propalam, par dessein prémédité. Cic. Orat. I, 35. Neque proposito argento neque
+					tabulis et signis propalam collocatis, c'est-à-dire à l'admiration de tout le
+					monde. Comparez avec Pis. 36. Mensis palam pro¬ positis, c'est-à-dire
+					effrontément et sans gêne</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -1265,17 +1251,14 @@
 			<entry>
 				<form type="lemma">Appellare</form>
 				<pc>, v.</pc>
-				<form type="variant">Alloqui et Nomi¬</form>
+				<form type="variant">Alloqui et Nominare</form>
 			</entry>
 			<entry>
 				<form type="lemma">Aptus</form>
 				<pc>, v.</pc>
-				<form type="variant">Idoneus sr</form>
+				<form type="variant">Idoneus </form>
 			</entry>
 			<pc>.</pc>
-			<entry>
-				<form type="lemma">nare.</form>
-			</entry>
 			<entry>
 				<form type="lemma">Aqua. Unda. Fluctus. Fluentum</form>
 				<pc>. 1.</pc>
@@ -3330,16 +3313,11 @@
 				<pc>. 2.</pc>
 				<sense>Contumelia et injuria sont des actions; offensio et offensa marquent un état,
 					à savoir : le chagrin de l'offensé, le ressentiment par opposition à gratia ou à
-					delectatio.</sense>
-			</entry>
-			<entry>
-				<form type="lemma">Cic. Att</form>
-				<pc>.</pc>
-				<sense>III, 23. Mihi majori offensioni sunt quam delec¬ tationi possessiunculae
-					meae. Mes pauvres petites pro¬ priétés me dônnent plus de peine que de plaisir.
-					Plin. Ep. II, 18. Oportet me non solum offensas, verum etiam simultates aequo
-					animo subire. C'est un devoir pour moi de m'exposer sans me laisser émouvoir et
-					aux méconten¬ tements et aux rancunes jalouses</sense>
+					delectatio. Cic. Att. III, 23. Mihi majori offensioni sunt quam delec¬ tationi
+					possessiunculae meae. Mes pauvres petites pro¬ priétés me dônnent plus de peine
+					que de plaisir. Plin. Ep. II, 18. Oportet me non solum offensas, verum etiam
+					simultates aequo animo subire. C'est un devoir pour moi de m'exposer sans me
+					laisser émouvoir et aux méconten¬ tements et aux rancunes jalouses</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -3750,17 +3728,13 @@
 					douleur, par opposition à gaudium, ἀλγος; aegritudo, une maladie, la tristesse
 					noire, άνία, par opposition à alacritas. Cic. Finn. I, 22. Nec praeterea res
 					ulla est, quae sua natura aut sollicitare possit aut angere. Et il n'y a rien
-					hors de là qui soit de nature à causer de l'inquiétude ou de l'anxiété</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Accius</form>
-				<sense>dans Nonius. Ubi cura, ibi anxitudo. Les soucis ne vont point sans humeur.
-					Plin. Ep. II, 11. Caesar mihi tan¬ tum studium, tantam etiam curam (nimium est
-					dicere sol¬ licitudinem) praestitit ut... César s'est montré si zélé pour moi,
-					si soucieux même (car, de dire inquiet, ce serait trop) que... Quintil. VIII,
-					pr. 20. Curam ego verborum, rerum volo esse sollicitudinem. J'entends que les
-					mots donnent du souci, les choses de l'inquiétude</sense>
+					hors de là qui soit de nature à causer de l'inquiétude ou de l'anxiété. Accius
+					dans Nonius. Ubi cura, ibi anxitudo. Les soucis ne vont point sans humeur. Plin.
+					Ep. II, 11. Caesar mihi tan¬ tum studium, tantam etiam curam (nimium est dicere
+					sol¬ licitudinem) praestitit ut... César s'est montré si zélé pour moi, si
+					soucieux même (car, de dire inquiet, ce serait trop) que... Quintil. VIII, pr.
+					20. Curam ego verborum, rerum volo esse sollicitudinem. J'entends que les mots
+					donnent du souci, les choses de l'inquiétude</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -4661,7 +4635,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">« Divus</form>
+				<form type="lemma">Divus</form>
 				<pc>, v.</pc>
 				<form type="variant">Numen</form>
 			</entry>
@@ -7386,13 +7360,8 @@
 					puissant fait grâce, veniam dat. Cic. Man. 3. Illis imperatoribus laus est
 					tribuenda quod égerunt; venia danda quod relique¬ runt. Il faut louer ces
 					généraux de ce qu'ils ont fait; il faut leur faire grâce pour ce qu'ils ont
-					laissé inachevé</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Comparez</form>
-				<sense>avec Att. XVI, 16. Ignosce mihi quod éadem de re saepius scribam.
-					Pardonne-moi de revenir si souvent sur le même sujet</sense>
+					laissé inachevé. Comparez avec Att. XVI, 16. Ignosce mihi quod éadem de re
+					saepius scribam. Pardonne-moi de revenir si souvent sur le même sujet</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -7555,24 +7524,13 @@
 				<form type="lemma">Imus. Infimus</form>
 				<pc>.</pc>
 				<sense>Imum, la partie la plus basse dans un tout indivisible; infimum, la base ou
-					le dessous dans un tout divisible. V'imum est en bas; l'infimum, en
-					dessous</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Rosc. com. 7</form>
-				<pc>.</pc>
-				<sense>Ab imis unguibus usque ad summum verticem. De la plante des pieds au sommet
-					de la tête</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Comparez</form>
-				<sense>avec Divin. I, 33. Ut ab infima ara subito anguis emergeret. Un serpent
-					sortit tout à coup de dessous l'au¬ tel. Et avec N. D. II, 20. Luna infima est
-					quinque erran¬ tium. Des cinq planètes, c'est la lune qui est en dessous. Imus
-					n'exprime d'ailleurs qu'un rapport de lieu ; infimus contient une idée
-					accessoire, celle du dernier rang</sense>
+					le dessous dans un tout divisible. V'imum est en bas; l'infimum, en dessous.
+					Cic. Rosc. com. 7 . Ab imis unguibus usque ad summum verticem. De la plante des
+					pieds au sommet de la tête. Comparez avec Divin. I, 33. Ut ab infima ara subito
+					anguis emergeret. Un serpent sortit tout à coup de dessous l'au¬ tel. Et avec N.
+					D. II, 20. Luna infima est quinque erran¬ tium. Des cinq planètes, c'est la lune
+					qui est en dessous. Imus n'exprime d'ailleurs qu'un rapport de lieu ; infimus
+					contient une idée accessoire, celle du dernier rang</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -8140,14 +8098,12 @@
 					empoi¬ sonné son maître. Hor. Ep. I, 2, 32. Ut jugulent homines surgunt de nocte
 					latrones. Les brigands sortent de l'ombre pour égorger le monde. Sall. Fr.
 					Caeteri vice pecorum obtruncantur : en sorte qu'on voyait à terre comme sur un
-					étal des membres détachés</sense>
-				<form type="lemma">. Tac. Hist...</form>
-				<pc>.</pc>
-				<sense>Juberet inter¬ fici; offerre se corpora irae; trucidaret. Il n'avait qu'à les
-					faire mourir; ils étaient prêts à servir de victimes à sa colère : il pouvait
-					les tuer à son aise. Cic. Rosc. Am. 34. Cujus consilio occisus sit invenio;
-					cujus manu percussus sit non invenio. Je discerne l'auteur, je ne découvre pas
-					l'instrument de cette mort sanglante</sense>
+					étal des membres détachés. Tac. Hist.... Juberet inter¬ fici; offerre se corpora
+					irae; trucidaret. Il n'avait qu'à les faire mourir; ils étaient prêts à servir
+					de victimes à sa colère : il pouvait les tuer à son aise. Cic. Rosc. Am. 34.
+					Cujus consilio occisus sit invenio; cujus manu percussus sit non invenio. Je
+					discerne l'auteur, je ne découvre pas l'instrument de cette mort
+					sanglante</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -8226,11 +8182,8 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Invenire. Reperire. Deprehendere. Nancisci. Adipisci</form>
-				<pc>.</pc>
-			</entry>
-			<entry>
-				<form type="lemma">Consequi. Assequi</form>
+				<form type="lemma">Invenire. Reperire. Deprehendere. Nancisci. Adipisci. Consequi.
+					Assequi</form>
 				<pc>. 1.</pc>
 				<sense>Invenire, terme général, trouver dans toutes les conjonctures; reperire et
 					deprehendere sup¬ posent un objet caché qu'on songe et qu'on s'applique à
@@ -8695,15 +8648,10 @@
 				<sense>Lambere, lécher lorsque la langue 7 sert d'instrument comme la main pour
 					saisir ou toucher un objet, que ce soit ou non un aliment, qu'il ait du goût ou
 					qu'il n'en ait pas ; lingere, lécher lorsqu'on emploie la langue comme organe du
-					goût pour apprécier une saveur</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Plin. H. N</form>
-				<pc>.</pc>
-				<sense>XXXV, 7. Canem ex aere vulnus suum lam¬ bentem. Un chien de bronze qui passe
-					la langue sur sa blessure. Comparez avec XXI, 4. Pecoribus sal datur lin¬
-					gendus. On donne au bétail du sel à lécher</sense>
+					goût pour apprécier une saveur. Plin. H. N. XXXV, 7. Canem ex aere vulnus suum
+					lam¬ bentem. Un chien de bronze qui passe la langue sur sa blessure. Comparez
+					avec XXI, 4. Pecoribus sal datur lin¬ gendus. On donne au bétail du sel à
+					lécher</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -9229,13 +9177,8 @@
 					et le jeu. Comparez avec IX, 25 : Lusus et ineptias nostras legis. Tu lis les
 					bagatelles et les sottises auxquelles nous nous sommes amusés. Cic. Flacc. 5,
 					12. Graeci quibus jusjurandum jocus est, testi¬ monium ludus, c'est-à-dire les
-					Grecs pour lesquels c'est fort peu de chose que de porter un faux
-					témoignage</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Comparez</form>
-				<sense>avec Sen. Contr. I, 2. Piratas... quibus omne fas nefasque lusus est,
+					Grecs pour lesquels c'est fort peu de chose que de porter un faux témoignage.
+					Comparez avec Sen. Contr. I, 2. Piratas... quibus omne fas nefasque lusus est,
 					c'est-à-dire les pirates aux yeux desquels la différence entre le juste et
 					l'injuste n'est qu'un amusement, un jeu de mots sans conséquence</sense>
 				<pc>. 2.</pc>
@@ -9260,13 +9203,8 @@
 					pestilentia invasit. Puis, quand ce mal contagieux eut fait, comme la peste,
 					d'irrésistibles progrès. Plin. H. N. XXIII, 28. Laurus folia pestilentiae
 					contagia prohibent. Les feuilles du laurier de Delphes préservent des atteintes
-					contagieuses de la peste. Lucan</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">VI</form>
-				<sense>, 89. Fluidae contagia pestis. L'air se charge d'exhalai¬ sons
-					pestilentielles 1</sense>
+					contagieuses de la peste. Lucan. VI , 89. Fluidae contagia pestis. L'air se
+					charge d'exhalai¬ sons pestilentielles</sense>
 				<pc>. 2.</pc>
 				<sense>La poésie seule emploie pestis pour la peste même; hors de là, pestis
 					exprime, comme exitium et pernicies, un fléau en général, sans qu'il soit
@@ -9751,36 +9689,27 @@
 				<form type="lemma">Meminisse. Reminisci. Recordari</form>
 				<pc>.</pc>
 				<sense>Meminisse présente le souvenir comme un état de l'esprit, μεμνήσθαι, on a
-					con¬ servé un fait dans sa mémoire, on sait encore sans avoir 1 Collection
-					Lemaire. Tome CXXXIII, p. 219</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">2 Collection Lemaire. Tome XLIX, p. 406</form>
-				<pc>.</pc>
-				<sense>jamais oublié, c'est le sens de memorem esse; reminisci et recordari
-					présentent le souvenir comme un acte de l'es¬ prit, άναμιμνήσκεσθαι, on retrouve
-					une idée qu'on avait per¬ due de vue. Mais reminisci exprime, comme in memoriam
-					revocare, un acte momentané ; recordari un acte durable, comme revocata in
-					memoriam contemplari. Cic. Lig. 12, 35. Equidem, cum tuis omnibus negotiis
-					interessem, memo¬ ria teneo, qualis T. Ligarius, quaeestor urbanus, fuerit erga
-					te et dignitatem tuam ; sed parum est, me hoc meminisse; spero etiam te, qui
-					oblivisci nihil soles, nisi injurias, quoniam hoc est animi, quoniam etiam
-					ingenii tui, te ali¬ quid de hujus illo quaestorio officio cogitantem, etiam de
-					aliis quibusdam quaeestoribus reminiscentent recordari. Témoin de tous tes
-					embarras, j'ai la mémoire encore pleine de ce que T. Ligarius a fait pour toi,
-					pour ménager ta dignité, dans sa questure civile. Mais c'est peu que je me
-					souvienne moi. Tu nous as habitués à ne te voir jamais oublier que les
-					injustices, c'est là que va la pente de ton âme et de ton caractère; j'espère
-					donc qu'en songeant à la manière dont il a rempli cette charge, tu t'arrêteras
-					aussi sur les souvenirs qui se rapportent à quelques autres questeurs. Ce
-					passage fait voir 1° que memoria tenere n'est qu'une périphrase de meminisse ;
-					2° que recordari peut être une conséquence de reminisci, sans que la récipro¬
-					que soit vraie, car il y a entre les deux le même rapport qu'entre intueri et
-					conspicere.</sense>
-				<form type="lemma">Cic. Sen. 21. Pueri... ita</form>
-				<pc>.</pc>
-				<sense>celeriter res innumerabiles arripiunt, ut eas non tum pri¬ mum accipere
+					con¬ servé un fait dans sa mémoire, on sait encore sans avoir jamais oublié,
+					c'est le sens de memorem esse; reminisci et recordari présentent le souvenir
+					comme un acte de l'es¬ prit, άναμιμνήσκεσθαι, on retrouve une idée qu'on avait
+					per¬ due de vue. Mais reminisci exprime, comme in memoriam revocare, un acte
+					momentané ; recordari un acte durable, comme revocata in memoriam contemplari.
+					Cic. Lig. 12, 35. Equidem, cum tuis omnibus negotiis interessem, memo¬ ria
+					teneo, qualis T. Ligarius, quaeestor urbanus, fuerit erga te et dignitatem tuam
+					; sed parum est, me hoc meminisse; spero etiam te, qui oblivisci nihil soles,
+					nisi injurias, quoniam hoc est animi, quoniam etiam ingenii tui, te ali¬ quid de
+					hujus illo quaestorio officio cogitantem, etiam de aliis quibusdam quaeestoribus
+					reminiscentent recordari. Témoin de tous tes embarras, j'ai la mémoire encore
+					pleine de ce que T. Ligarius a fait pour toi, pour ménager ta dignité, dans sa
+					questure civile. Mais c'est peu que je me souvienne moi. Tu nous as habitués à
+					ne te voir jamais oublier que les injustices, c'est là que va la pente de ton
+					âme et de ton caractère; j'espère donc qu'en songeant à la manière dont il a
+					rempli cette charge, tu t'arrêteras aussi sur les souvenirs qui se rapportent à
+					quelques autres questeurs. Ce passage fait voir 1° que memoria tenere n'est
+					qu'une périphrase de meminisse ; 2° que recordari peut être une conséquence de
+					reminisci, sans que la récipro¬ que soit vraie, car il y a entre les deux le
+					même rapport qu'entre intueri et conspicere. Cic. Sen. 21. Pueri... ita
+					celeriter res innumerabiles arripiunt, ut eas non tum pri¬ mum accipere
 					videantur, sed reminisci et recordari. Les enfants saisissent si promptement une
 					foule d'idées qu'ils ont l'air de les retrouver et de s'y arrêter par souvenir
 					plutôt que de les recevoir pour la première fois. Cicéron aurait pu ajouter:
@@ -10009,13 +9938,13 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">MODO</form>
-				<sense>-Modo. Nunc-nunc. Modo-modo ne devrait s'ap¬ pliquer à la rigueur qu'à des
-					actions passées ou futu¬ res; nunc-nunc à des actions présentes. Cette
-					distinction est tombée en désuétude, mais nunc-nunc a du moins un tour plus vif
-					et appartient à la poésie et à la prose élevée, comme tantôt... tantôt;
-					modo-modo est, comme une fois... une autre fois, le terme propre de la prose
-					dont Cicéron se sert constamment</sense>
+				<form type="lemma">Modo-Modo. Nunc-Nunc</form>
+				<sense>Modo-modo ne devrait s'ap¬ pliquer à la rigueur qu'à des actions passées ou
+					futu¬ res; nunc-nunc à des actions présentes. Cette distinction est tombée en
+					désuétude, mais nunc-nunc a du moins un tour plus vif et appartient à la poésie
+					et à la prose élevée, comme tantôt... tantôt; modo-modo est, comme une fois...
+					une autre fois, le terme propre de la prose dont Cicéron se sert
+					constamment</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -10025,8 +9954,8 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Digitized by Google, Modus. Modestia. Moderatio. Temperatio.
-					Continen¬ tia. Abstinentia</form>
+				<form type="lemma">Modus. Modestia. Moderatio. Temperatio. Continen¬ tia.
+					Abstinentia</form>
 				<pc>. 1.</pc>
 				<sense>Modus, l'idée de la mesure et de la règle prise comme un précepte moral
 					indépendant de toute personnalité, ce que les Grecs entendent par μέτριoν, μηδέν
@@ -10271,7 +10200,8 @@
 				<sense>Mutilare se dit de mutilations lé¬ gères, comme de briser les cornes, de
 					couper le nez, les doigts, etc. ; truncare, de mutilations graves, comme de
 					trancher les bras, les pieds, les mains. On peut comparer les mutilata membra à
-					des rameaux et à des scions rompus; les truncata, à de grosses branches abattues</sense>
+					des rameaux et à des scions rompus; les truncata, à de grosses branches
+					abattues</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -10373,17 +10303,13 @@
 					propinquus, toute personne à laquelle on tient par des rapports de famille,
 					parent quelconque, comme άγχιστείς et ἐται : c'est le terme générique qui
 					comprend, outre le cognatus et le consanguineus ou parents par le sang,
-					l'affinis ou parent par mariage ou alliance, comme κηδεστής</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cognatio</form>
-				<sense>, la parenté par le sang entre membres de la famille, comme σύναιμος;
-					consanguinitas, celle de nations qui appartiennent à la même race, comme
-					συγγενής. Caes. B. G. VII, 32. Hominem summae potentiae et magnaee co¬
-					gnationis. Personnage très puissant et de grande famille. Comparez avec I, 11.
-					Ambarii necessarii et consanguinei AEduorum. Les Ambarriens attachés aux Éduens
-					et de même race qu'eux</sense>
+					l'affinis ou parent par mariage ou alliance, comme κηδεστής. Cognatio , la
+					parenté par le sang entre membres de la famille, comme σύναιμος; consanguinitas,
+					celle de nations qui appartiennent à la même race, comme συγγενής. Caes. B. G.
+					VII, 32. Hominem summae potentiae et magnaee co¬ gnationis. Personnage très
+					puissant et de grande famille. Comparez avec I, 11. Ambarii necessarii et
+					consanguinei AEduorum. Les Ambarriens attachés aux Éduens et de même race
+					qu'eux</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -10650,14 +10576,9 @@
 					terme générique, par rapport à deus, anciennement divus, le dieu, θεός, et à
 					semideus, le demi-dieu, ῆμίθεος, ou semo, moitié homme, moitié dieu. L'usage a
 					donné pour équi¬ valent à ces deux mots, outre heros, qui est d'origine
-					étrangère, numen, pris dans son acception restreinte</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Plin. Pan. 2</form>
-				<pc>, 3.</pc>
-				<sense>Nusquam ut deo, nusquam ut numini blandimur. Nous ne cherchons aucune
-					occasion de lui complaire comme à un dieu, ni même comme à un demi¬ dieu</sense>
+					étrangère, numen, pris dans son acception restreinte. Plin. Pan. 2, 3. Nusquam
+					ut deo, nusquam ut numini blandimur. Nous ne cherchons aucune occasion de lui
+					complaire comme à un dieu, ni même comme à un demi¬ dieu</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -11219,18 +11140,13 @@
 					rement ligne serpentine. L'expression in orbem consistere (serrer les rangs sur
 					la circonférence d'un cercle) ne pour¬ rait pas être échangée contre in circulum
 					(se masser dans l'intérieur d'un cercle), et le cercle formé par une so¬ ciété
-					close, circulus, ne pourrait point s'appeler orbis</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Tac. G. 6</form>
-				<pc>.</pc>
-				<sense>Equi nec variare gyros nostrum in modum do¬ centur; in rectum aut uno flexu
-					dextros agunt, ita con¬ juncto orbe ut nemo posterior sit. Les Germains ne dres¬
-					sent point, comme nous, les chevaux à suivre différentes courbes; ils les
-					poussent droit devant eux ; quand ils les font tourner, c'est toujours par la
-					droite, et ils se suivent alors de si près sur une ligne circulaire, qu'on ne
-					distin¬ gue pas le premier cavalier du dernier</sense>
+					close, circulus, ne pourrait point s'appeler orbis. Tac. G. 6. Equi nec variare
+					gyros nostrum in modum do¬ centur; in rectum aut uno flexu dextros agunt, ita
+					con¬ juncto orbe ut nemo posterior sit. Les Germains ne dres¬ sent point, comme
+					nous, les chevaux à suivre différentes courbes; ils les poussent droit devant
+					eux ; quand ils les font tourner, c'est toujours par la droite, et ils se
+					suivent alors de si près sur une ligne circulaire, qu'on ne distin¬ gue pas le
+					premier cavalier du dernier</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -11415,14 +11331,9 @@
 					arma modo, sed obse¬ quium et parendi amor, c'est-à-dire de la docilité inspirée
 					par l'estime et l'amour qu'ils portaient au général et du plaisir à obéir, parce
 					qu'ils sentaient que leur cause ne pouvait pas se soutenir sans subordination et
-					sans ordre.</sense>
-			</entry>
-			<entry>
-				<form type="lemma">Cic. Orat. 71</form>
-				<pc>.</pc>
-				<sense>Dum tibi roganti voluerim obsequi. Voulant aller au-devant de ta prière.
-					Comparez avec Famm. IX, 25. Obtemperare cogito proeceptis tuis. Je pense me
-					conformer à tes prescriptions</sense>
+					sans ordre. Cic. Orat. 71. Dum tibi roganti voluerim obsequi. Voulant aller
+					au-devant de ta prière. Comparez avec Famm. IX, 25. Obtemperare cogito
+					proeceptis tuis. Je pense me conformer à tes prescriptions</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -11650,7 +11561,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Prjor</form>
+				<form type="lemma">Prior</form>
 				<pc>, v.</pc>
 				<form type="variant">Deterior</form>
 			</entry>
@@ -11890,15 +11801,10 @@
 					trompeur</sense>
 				<pc>. 3.</pc>
 				<sense>Les idées exprimées par falso et false sont réunies dans l'adjectif falsus,
-					qui ne se distingue que de fallax</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Phil. XII</form>
-				<pc>, 2.</pc>
-				<sense>Spes falsa et fallax. Fausse et perfide espérance. Tac. Ann. XVI, 32. Specie
-					bonorum falsos et amicitiaee fallaces. La fausseté sous un semblant de vertu, la
-					perfidie sous un semblant d'amitié</sense>
+					qui ne se distingue que de fallax. Cic. Phil. XII, 2. Spes falsa et fallax.
+					Fausse et perfide espérance. Tac. Ann. XVI, 32. Specie bonorum falsos et
+					amicitiaee fallaces. La fausseté sous un semblant de vertu, la perfidie sous un
+					semblant d'amitié</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -12015,16 +11921,10 @@
 					soldats exigeaient que l'empereur payât de sa personne au jour de la bataille;
 					un très-grand nombre souhaitaient qu'on fit venir les troupes établies au delà
 					du Pô. Cic. Verr. III, 34. Incipiunt postulare, poscere, mi¬ nari. Viennent les
-					demandes, les exigences, les menaces</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Planc. 19</form>
-				<pc>.</pc>
-				<sense>Poscere atque etiam flagitare crimen. Exiger, vouloir emporter une
-					accusation. Legg. I, 5. Postulatur a te jam diu vel flagitatur potius historia.
-					Voilà longtemps qu'on te demande ou plutôt qu'on brûle de t'arracher cette
-					histoire</sense>
+					demandes, les exigences, les menaces. Planc. 19 . Poscere atque etiam flagitare
+					crimen. Exiger, vouloir emporter une accusation. Legg. I, 5. Postulatur a te jam
+					diu vel flagitatur potius historia. Voilà longtemps qu'on te demande ou plutôt
+					qu'on brûle de t'arracher cette histoire</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -12731,7 +12631,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Fraelium</form>
+				<form type="lemma">Praelium</form>
 				<pc>, v.</pc>
 				<form type="variant">Pugna</form>
 			</entry>
@@ -13105,16 +13005,11 @@
 					faim et ils cherchaient par¬ tout, pour les déterrer, des racines de palmiste.
 					Compa¬ rez avec IX, 9, 5. Scrutati omnia tuguria tandem latentes reperere. A
 					force de fouiller toutes les cabanes, ils fini¬ rent par les trouver dans leur
-					cachette. Tac. Ann. VI, 3</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Rimans secreta omnium</form>
-				<pc>.</pc>
-				<sense>Déterrant les secrets de tout le monde. Et XII, 52. Quasi finem principis per
-					Chaldaeos scrutaretur. Furius Scribonianus est exilé sous prétexte qu'il avait
-					eu la curiosité de s'adresser aux Chaldéens pour découvrir quand et comment
-					l'empereur mourrait. Il n'y avait pas d'obstacles à surmonter</sense>
+					cachette. Tac. Ann. VI, 3. Rimans secreta omnium. Déterrant les secrets de tout
+					le monde. Et XII, 52. Quasi finem principis per Chaldaeos scrutaretur. Furius
+					Scribonianus est exilé sous prétexte qu'il avait eu la curiosité de s'adresser
+					aux Chaldéens pour découvrir quand et comment l'empereur mourrait. Il n'y avait
+					pas d'obstacles à surmonter</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13145,17 +13040,15 @@
 					supporter aucune contrariété. La querimonia est une affaire de raisonnement,
 					elle vise à obtenir assistance ou satisfaction, comme la plainte; la querela est
 					une affaire de sentiment; elle ne tend guère qu'à soulager le coeur, comme les
-					lamentations. Cic.</sense>
+					lamentations. Cic. Caecil. 3. In populi Romani quotidiana querimonia. La plainte
+					journalière du peuple romain.. Comparez avec Famm. V, 14. Tu non intelliges te
+					querelis quotidianis nihil proficere? Ne veux-tu point comprendre que tu ne
+					gagnes rien à tes lamentations journalières?</sense>
 			</entry>
 			<entry>
-				<form type="lemma">Caecil</form>
-				<pc>. 3.</pc>
-				<sense>In populi Romani quotidiana querimonia. La plainte journalière du peuple
-					romain.. Comparez avec Famm. V, 14. Tu non intelliges te querelis quotidianis
-					nihil proficere? Ne veux-tu point comprendre que tu ne gagnes rien à tes
-					lamentations journalières? Quies. Tranquillitas. Requies</sense>
+				<form type="lemma">Quies. Tranquillitas. Requies</form>
 				<pc>. 1.</pc>
-				<sense>Quies, le repos, l'i¬ nactionabsolue, par oppositionà toute espèce
+				<sense>Quies, le repos, l'i¬ naction absolue, par oppositionà toute espèce
 					d'activité, ῆσυχία; tranquillitas, le calme dans le mouvement opposé
 					âl'agitation et à la passion, comme ἐκηλία. Sen. Ep. 3. Et quiescenti agendum et
 					agenti quiescendum est. Il faut que l'action succède au repos et le repos à
@@ -13365,20 +13258,15 @@
 				<pc>. 2.</pc>
 				<sense>Le refutans se tient sur la défensive et rétorque les arguments qu'on lui
 					oppose; le confutans prend l'offen¬ sive; il en fait voir la nullité et les
-					réduit en poussière.</sense>
-			</entry>
-			<entry>
-				<form type="lemma">Cic. Font</form>
-				<pc>. 1.</pc>
-				<sense>Plus laboris consumo in poscendis testibus quam defensores in refutandis. Je
-					me donne plus de peine pour interroger les témoins que les défenseurs pour leur
-					répondre. Comparez avec N. D. II, 17. Cujus opinionis levitas confutata a Cotta
-					non desiderat orationem meam. Ce sentiment n'a aucun poids, et Cotta l'a
-					pulvérisé de manière à me dispenser de parler. Top. 25. Refutatio ac¬ cusationis
-					in qua est depulsio criminis. Répondre à un acte d'accusation en repoussant les
-					charges. Comparez avec Rhet, ad Her. I, 13. Confutatio est contrariorum lo¬
-					corum dissolutio. La réfutation consiste à réduire à néant les arguments
-					contraires</sense>
+					réduit en poussière. Cic. Font. 1. Plus laboris consumo in poscendis testibus
+					quam defensores in refutandis. Je me donne plus de peine pour interroger les
+					témoins que les défenseurs pour leur répondre. Comparez avec N. D. II, 17. Cujus
+					opinionis levitas confutata a Cotta non desiderat orationem meam. Ce sentiment
+					n'a aucun poids, et Cotta l'a pulvérisé de manière à me dispenser de parler.
+					Top. 25. Refutatio ac¬ cusationis in qua est depulsio criminis. Répondre à un
+					acte d'accusation en repoussant les charges. Comparez avec Rhet, ad Her. I, 13.
+					Confutatio est contrariorum lo¬ corum dissolutio. La réfutation consiste à
+					réduire à néant les arguments contraires</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13706,23 +13594,13 @@
 					l'Italie. Plin. Ep. V, 6, 2. Gravis et pestilens ora Tuscorum, quae per littus
 					extenditur. Il y a en Toscane, le long de la côte, une zone malsaine et
 					empestée. On trouve littoris ora, c'est-à-dire ora per littus extensa. PRUDENT,
-					contr. Symm</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">IV</form>
-				<sense>, 136. Invenit expositum secreti in littoris acta. Il le trouve exposé dans
-					un enfoncement sur une côte retirée</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Famm</form>
-				<pc>.</pc>
-				<sense>IX, 6. Ea tractes quorum et usus et delectatio est omnibus illis actis et
-					voluptatibus anteponenda. Faites- vous des occupations utiles et attrayantes,
-					préférables à tous les paysages, à tous les plaisirs qu'on demande aux bords de
-					la mer. C'est un mot emprunté au grec que Ta¬ cite préfère remplacer, H. III,
-					76, par la péripharse amoena littorum</sense>
+					contr. Symm. IV, 136. Invenit expositum secreti in littoris acta. Il le trouve
+					exposé dans un enfoncement sur une côte retirée. Cic. Famm. IX, 6. Ea tractes
+					quorum et usus et delectatio est omnibus illis actis et voluptatibus
+					anteponenda. Faites- vous des occupations utiles et attrayantes, préférables à
+					tous les paysages, à tous les plaisirs qu'on demande aux bords de la mer. C'est
+					un mot emprunté au grec que Ta¬ cite préfère remplacer, H. III, 76, par la
+					péripharse amoena littorum</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -14067,8 +13945,7 @@
 			<entry>
 				<form type="lemma">Sanies. Pus</form>
 				<pc>.</pc>
-				<sense>Sanies, pus liquide et dégoûtant; pus, ron¬ geur et pernicieux.
-					</sense>
+				<sense>Sanies, pus liquide et dégoûtant; pus, ron¬ geur et pernicieux. </sense>
 			</entry>
 			<entry>
 				<form type="lemma">Sanitas, Sanus</form>
@@ -14340,7 +14217,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Scxphus</form>
+				<form type="lemma">Scyphus</form>
 				<pc>, v.</pc>
 				<form type="variant">Poculum</form>
 			</entry>
@@ -14776,15 +14653,11 @@
 					dies festi, comme des jours de joie. Solere. Consuevisse. Adsolere. 1. Solere
 					s'emploie à propos d'événements et de toute sorte d'actions, comme avoir
 					coutume, φιλεῖν; consuevisse ne se dit que d'une ac¬ tion personnelle, comme
-					être habitué, είωθέναι. Dans Liv</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">XXXVIII</form>
-				<sense>, 17. Haec quibus insolita atque insueta sunt Graeci timeant. Les Grecs ne
-					sont ni accoutumés ni habitués aux maux qui les menacent : insolitus ne fait
-					allusion qu'à la fréquence du fait; insuetus marque qu'il faut que le sujet soit
-					actif, soit passif, se familiarise avec lui</sense>
+					être habitué, είωθέναι. Dans Liv. XXXVIII, 17. Haec quibus insolita atque
+					insueta sunt Graeci timeant. Les Grecs ne sont ni accoutumés ni habitués aux
+					maux qui les menacent : insolitus ne fait allusion qu'à la fréquence du fait;
+					insuetus marque qu'il faut que le sujet soit actif, soit passif, se familiarise
+					avec lui</sense>
 				<pc>. 2.</pc>
 				<sense>Solet se prend en bonne ou en mauvaise part; asso¬ let contient un éloge et
 					revient à recte ou rite solet</sense>
@@ -15182,10 +15055,7 @@
 					enfants comme des fruits nouveaux, comme une jeune génération destinée à vivre à
 					côté de l'ancienne ; suboles, comme des rejetons destinés à remplacer la
 					génération qui s'en va</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">3</form>
+				<pc>. 3</pc>
 				<sense>Gens, famille politique; genus, famille naturelle. La gens se compose de
 					familles que le fondateur de l'État a réunies en communauté ou en association;
 					le genus, d'es¬ pèces et d'individus qui, en vertu de leurs caractères communs,
@@ -15325,10 +15195,10 @@
 			<entry>
 				<form type="lemma">Sublime</form>
 				<pc>, v.</pc>
-				<form type="variant">Aer et</form>
+				<form type="variant">Aer et Altus</form>
 			</entry>
 			<entry>
-				<form type="lemma">Altus. Soboles</form>
+				<form type="lemma">Soboles</form>
 				<pc>, v.</pc>
 				<form type="variant">Stirps</form>
 			</entry>
@@ -16746,11 +16616,7 @@
 				<pc>. 5.</pc>
 				<sense>Adorare, terme général pour toute espèce de culte rendu aux dieux; la
 					veneratio tend à se restreindre aux gestes, la precatio aux formules</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">12. 6</form>
-				<pc>.</pc>
+				<pc>. 6.</pc>
 				<sense>Reveremur validas auctoritates; admiramur raras virtutes; suspicimus
 					excellentia dignitate. Nous respec¬ tons l'autorité, nous admirons la vertu,
 					nous levons les yeux vers les grandeurs. Je me représente d'ailleurs le reverens
@@ -16819,10 +16685,8 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Vestis. Vestitus. Vestimentum. Amictus. Amiculum.</form>
-			</entry>
-			<entry>
-				<form type="lemma">Cultus. Habitus</form>
+				<form type="lemma">Vestis. Vestitus. Vestimentum. Amictus. Amiculum. Cultus.
+					Habitus</form>
 				<pc>. 1.</pc>
 				<sense>Vestis, terme général qui signifie tantôt l'habillement entier, vestitus,
 					tantôt une pièce de l'habillement, vestimentum. Vestem mutare veut dire pren¬
@@ -17024,16 +16888,12 @@
 				<pc>. 4.</pc>
 				<sense>Rus et arvum, le champ, la terre à blé : rus, par opposition au village ou à
 					la ville, comme άρουρα; arvum, par opposition aux pâturages et aux plantations
-					d'arbres, à pabulum, pascuum, pratum, olivetum, comme ἀροτος. Cic.</sense>
-			</entry>
-			<entry>
-				<form type="lemma">Fr. ap. Quintil</form>
-				<pc>.</pc>
-				<sense>IV, 2, 131. Fundum habet in agro Thu¬ rino Tullius paternum. Tullius possède
-					un bien patrimo¬ nial dans la banlieue de Thurium. Orat. III, 33. De fundo
-					emendo, de agro colendo. Un domaine à acheter, un sol à cultiver. Tac. G. 26.
-					Arva per annos mutant, et superest ager. Ils changent tous les ans de champs de
-					blé, et ce n'est pas le sol qui leur manque</sense>
+					d'arbres, à pabulum, pascuum, pratum, olivetum, comme ἀροτος. Cic. Fr. ap.
+					Quintil. IV, 2, 131. Fundum habet in agro Thu¬ rino Tullius paternum. Tullius
+					possède un bien patrimo¬ nial dans la banlieue de Thurium. Orat. III, 33. De
+					fundo emendo, de agro colendo. Un domaine à acheter, un sol à cultiver. Tac. G.
+					26. Arva per annos mutant, et superest ager. Ils changent tous les ans de champs
+					de blé, et ce n'est pas le sol qui leur manque</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -17240,14 +17100,8 @@
 					grands oiseaux seulement, comme οίωνός, en particulier l'aigle; et alites, comme
 					terme technique de la langue des augures, les oiseaux dont on observait et
 					interprétait le vol, par opposition à oscines ou aux oiseaux dont on
-					interprétait le chant et les cris</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Ovid. Art. am</form>
-				<pc>.</pc>
-				<sense>III, 410. Jovis in multas devolat ales aves. L'oiseau de Jupiter fond sur la
-					gent emplumée</sense>
+					interprétait le chant et les cris. Ovid. Art. am. III, 410. Jovis in multas
+					devolat ales aves. L'oiseau de Jupiter fond sur la gent emplumée</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
