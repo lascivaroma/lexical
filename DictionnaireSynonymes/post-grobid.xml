@@ -1314,10 +1314,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Censere</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">»</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Arcana. Secreta. Mysteria</form>
 				<pc>.</pc>
@@ -1365,10 +1361,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Angustus</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">3</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Ardere. Flagrare</form>
 				<pc>.</pc>
@@ -1519,10 +1511,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Spernere</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">7</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Assentiri. Assentari. Blandiri. Adulari</form>
 				<pc>. 1.</pc>
@@ -2087,9 +2075,6 @@
 				<form type="variant">Iter</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">pie</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Campus</form>
 				<pc>, v.</pc>
@@ -3830,9 +3815,6 @@
 				<form type="variant">Navigium</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">D</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Damnum. Detrimentum. Jactura</form>
 				<pc>.</pc>
@@ -4603,9 +4585,6 @@
 				<form type="variant">Pridem</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant"/>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Divellere</form>
 				<pc>, v.</pc>
@@ -4860,9 +4839,6 @@
 					ont été égale¬ ment réparties en deux catégories</sense>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">E</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Ebrius. Vinolentus. Temulentus. Crapula. Ebriosus</form>
 				<pc>. 1.</pc>
@@ -5465,9 +5441,6 @@
 				<form type="variant">Praeda</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">F</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Faber. Opifex. Artifex</form>
 				<pc>.</pc>
@@ -6544,10 +6517,6 @@
 					baculus, bacillum, béton utile et commode sur lequel on s'appuie, mais qui sert
 					d'arme au besoin</sense>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">G</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Galea</form>
 				<pc>, v.</pc>
@@ -6977,10 +6946,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Orbis</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">H</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Habena</form>
 				<pc>, v.</pc>
@@ -7244,10 +7209,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Adhuc</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant"/>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Humanitas. Comitas</form>
 				<pc>.</pc>
@@ -8559,9 +8520,6 @@
 					la plupart du temps avec une teinte de blâme, par opposition à la maturité de
 					l'âge.</sense>
 			</entry>
-			<dictScrap>
-				<form type="variant">L</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Labare. Titubare. Vacillare. Nutare</form>
 				<pc>.</pc>
@@ -10369,10 +10327,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Arcana</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">N</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Nancisci</form>
 				<pc>, v.</pc>
@@ -10749,10 +10703,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Alere</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">Ο</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Obambulare</form>
 				<pc>, v.</pc>
@@ -11372,10 +11322,6 @@
 				<sense>Otium, la tranquillité en géné¬ ral, tandis que pax se rapporte aux relations
 					extérieures et concordia à la situation intérieure</sense>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">P</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Paedor</form>
 				<pc>, v.</pc>
@@ -12087,9 +12033,6 @@
 				<form type="variant">Saxum</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">1</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Petulans. Procax. Protervus. Lascivus</form>
 				<pc>.</pc>
@@ -12976,13 +12919,9 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">PudenS</form>
-				<sense>, PudibUnduS, PudiCuS, v</sense>
+				<form type="lemma">Pudens, Pudibundus, Pudicus</form>
+				<form type="variant">Castus</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="lemma">Cast</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Puer. Infans. Adolescens. Juvenis. Vir. Vetus. Senex</form>
 				<pc>.</pc>
@@ -13148,10 +13087,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Purus</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">Q</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Quaerere. Scrutari. Rimari. Investigare. Indagare</form>
 				<pc>. 1.</pc>
@@ -13292,10 +13227,6 @@
 					dies breviores litteras ad te mitto. Les lettres que je t'envoie deviennent plus
 					courtes tous les jours ou plutôt de jour en jour</sense>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">R</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Rabies</form>
 				<pc>, v.</pc>
@@ -13950,10 +13881,6 @@
 					circonstances y relèguent. On peut ranger parmi ces derniers les provinciaux,
 					municipes, en qualité de rustico¬ rum similes</sense>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">S</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Sabulo. Harena. Sabura</form>
 				<pc>.</pc>
@@ -15173,10 +15100,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Conditio</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">te</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Stella. Astrum. Sidus</form>
 				<pc>.</pc>
@@ -15581,10 +15504,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Ferre</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">T</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Taberna</form>
 				<pc>, v.</pc>
@@ -16107,10 +16026,6 @@
 					discours de Fabianus un air je ne dis pas de négligence, mais
 					d'assurance</sense>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">U</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Uber</form>
 				<pc>, v.</pc>
@@ -16332,10 +16247,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Foemina</form>
 			</entry>
-			<pc>.</pc>
-			<dictScrap>
-				<form type="variant">V</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Vacare. Otiari. Feriari. Cessare</form>
 				<pc>.</pc>
