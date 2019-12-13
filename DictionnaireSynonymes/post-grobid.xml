@@ -992,8 +992,7 @@
 			<entry>
 				<form type="lemma">Amor</form>
 				<pc>, v.</pc>
-				<form type="variant">Diligere</form>
-				<sense>et Studium, n° 2</sense>
+				<form type="variant">Diligere et Studium</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -2080,7 +2079,10 @@
 			<entry>
 				<form type="lemma">Callidus</form>
 				<pc>, v.</pc>
-				<sense>Astutus et Sa¬ Callis</sense>
+				<form type="variant">Astutus et Sapiens</form>
+			</entry>
+			<entry>
+				<form type="lemma">Callis</form>
 				<pc>, v.</pc>
 				<form type="variant">Iter</form>
 			</entry>
@@ -7832,7 +7834,10 @@
 					revendre</sense>
 				<pc>. 2.</pc>
 				<sense>Et de même incestus celui qui a souillé son propre sang ; incestus, celui qui
-					n'est point chaste. Infidelis, Infidus</sense>
+					n'est point chaste.</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Infidelis, Infidus</form>
 				<pc>, v.</pc>
 				<form type="variant">Fidus</form>
 			</entry>
@@ -8008,6 +8013,9 @@
 					les yeux de personne. Cic. N. D. III, 24. Quare autem in his vis deorum insit
 					tum intelligam quum cogno¬ vero. Quant à leur divinité, je la comprendrai quand
 					j'au¬ rai appris à la connaître</sense>
+			</entry>
+			<pc>.</pc>
+			<entry>
 				<form type="lemma">Inopia</form>
 				<pc>, v.</pc>
 				<form type="variant">Paupertas</form>
@@ -10305,7 +10313,11 @@
 				<sense>Mutilare se dit de mutilations lé¬ gères, comme de briser les cornes, de
 					couper le nez, les doigts, etc. ; truncare, de mutilations graves, comme de
 					trancher les bras, les pieds, les mains. On peut comparer les mutilata membra à
-					des rameaux et à des scions Mulcta</sense>
+					des rameaux et à des scions rompus; les truncata, à de grosses branches abattues</sense>
+			</entry>
+			<pc>.</pc>
+			<entry>
+				<form type="lemma">Mulcta</form>
 				<pc>, v.</pc>
 				<form type="variant">Vindicta</form>
 			</entry>
@@ -10337,8 +10349,7 @@
 			<entry>
 				<form type="lemma">Munus</form>
 				<pc>, v.</pc>
-				<form type="variant">Donum</form>
-				<sense>et Officium. rompus; les truncata, à de grosses branches abattues</sense>
+				<form type="variant">Donum et Officium. </form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -11049,8 +11060,7 @@
 			<entry>
 				<form type="lemma">Omittere</form>
 				<pc>, v.</pc>
-				<form type="variant">Intermittere</form>
-				<sense>, Mit- tere et Relinquere</sense>
+				<form type="variant">Intermittere, Mittere et Relinquere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13314,7 +13324,10 @@
 					folle, gour¬ mande, parasite</sense>
 				<pc>. 2.</pc>
 				<sense>Virgultum, lieu couvert de buissons, qui n'est point nu; fruticetum, lieu
-					embarrassé de halliers, impraticable. Rapina, Raptor</sense>
+					embarrassé de halliers, impraticable.</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Rapina, Raptor</form>
 				<pc>, v.</pc>
 				<form type="variant">Praeda</form>
 			</entry>
@@ -14128,8 +14141,10 @@
 				<form type="lemma">Sanies. Pus</form>
 				<pc>.</pc>
 				<sense>Sanies, pus liquide et dégoûtant; pus, ron¬ geur et pernicieux.
-					Sanitas,</sense>
-				<form type="lemma">Sanus</form>
+					</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Sanitas, Sanus</form>
 				<pc>, v.</pc>
 				<form type="variant">Salus</form>
 			</entry>
@@ -15151,7 +15166,10 @@
 			<entry>
 				<form type="lemma">Statuere</form>
 				<pc>, v.</pc>
-				<sense>Destinare et Sis¬ Status</sense>
+				<form type="variant">Destinare et Sistere</form>
+			</entry>
+			<entry>
+				<form type="lemma">Status</form>
 				<pc>, v.</pc>
 				<form type="variant">Conditio</form>
 			</entry>
@@ -15556,8 +15574,10 @@
 					exprime la gêne; un gémissement, ge¬ mitus, la douleur. Cic. Att. II, 21. Cum
 					diu occulte sus- pirassent, postea jam gemere, ad extremum vero loqui omnes et
 					clamare coeperunt. A des soupirs longtemps étouffés succèdent les gémissements,
-					puis enfin, un con¬ cert de plaintes et de cris. Sustinere,</sense>
-				<form type="lemma">Sustentare</form>
+					puis enfin, un con¬ cert de plaintes et de cris.</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Sustinere, Sustentare</form>
 				<pc>, v.</pc>
 				<form type="variant">Ferre</form>
 			</entry>
@@ -16948,7 +16968,10 @@
 				<sense>Senecta, la vieillesse au sens indifférent, comme de¬ gré de la vie;
 					senectus, la vieillesse vénérable et expéri¬ mentée qui impose du respect et des
 					égards; senium, le grand âge qui affaiblit, accable et qu'on peut regarder comme
-					une infirmité. Vetus, Vetustus</sense>
+					une infirmité.</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Vetus, Vetustus</form>
 				<pc>, v.</pc>
 				<form type="variant">Antiquus et Puer</form>
 			</entry>
