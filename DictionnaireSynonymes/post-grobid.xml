@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI>
 	<teiHeader>
 		<encodingDesc>
 			<appInfo>
@@ -17,296 +17,19 @@
 	</teiHeader>
 	<text>
 		<body>
-			<fw type="header">DE SYNONYMIE LATINE</fw>
-			<fw type="header">2 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 3</fw>
-			<fw type="header">4 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 5</fw>
-			<fw type="header">6 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 7</fw>
-			<fw type="header">8 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 9</fw>
-			<fw type="header">10 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 11</fw>
-			<fw type="header">12 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 13</fw>
-			<fw type="header">14 MANUEL</fw>
-			<fw type="header">DB SYNONYMIE LATINE. 15</fw>
-			<fw type="header">16 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 17</fw>
-			<fw type="header">18 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 19</fw>
-			<fw type="header">20 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 21</fw>
-			<fw type="header">22 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 23</fw>
-			<fw type="header">MANUEL 24</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 25</fw>
-			<fw type="header">26 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 27</fw>
-			<fw type="header">28 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 29</fw>
-			<fw type="header">30 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 31</fw>
-			<fw type="header">32 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 33</fw>
-			<fw type="header">MANUEL 34</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 35</fw>
-			<fw type="header">36 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 37</fw>
-			<fw type="header">.38 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 39</fw>
-			<fw type="header">40 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 41</fw>
-			<fw type="header">42 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 43</fw>
-			<fw type="header">44 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 45</fw>
-			<fw type="header">46 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 47</fw>
-			<fw type="header">48 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 49</fw>
-			<fw type="header">50 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 51</fw>
-			<fw type="header">52 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 53</fw>
-			<fw type="header">MANUEL 54</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 55</fw>
-			<fw type="header">MANUEL 56 4</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 57</fw>
-			<fw type="header">58 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 59</fw>
-			<fw type="header">60 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 61</fw>
-			<fw type="header">62 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 63 culièrement pour la plus petite de toutes,
 				pour le de¬</fw>
-			<fw type="header">MANUEL 64 -</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 65</fw>
-			<fw type="header">66 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 67 Delictum. Peccatum. Malefactum. Maleficium.
 				Faci¬</fw>
-			<fw type="header">MANUEL 68</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 69</fw>
-			<fw type="header">70 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 71</fw>
-			<fw type="header">72 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 73</fw>
-			<fw type="header">74 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 75</fw>
-			<fw type="header">76 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 77</fw>
-			<fw type="header">78 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 79</fw>
-			<fw type="header">30 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 81</fw>
-			<fw type="header">82 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 83</fw>
-			<fw type="header">84 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 85</fw>
-			<fw type="header">86 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 87</fw>
-			<fw type="header">88 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 89</fw>
-			<fw type="header">90 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 91</fw>
-			<fw type="header">92 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 93</fw>
-			<fw type="header">94 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 95</fw>
-			<fw type="header">96 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 97</fw>
-			<fw type="header">98 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 99</fw>
-			<fw type="header">100 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 101</fw>
-			<fw type="header">102 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 103</fw>
-			<fw type="header">104 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 105</fw>
-			<fw type="header">106 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 107</fw>
-			<fw type="header">108 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 109</fw>
-			<fw type="header">MANUEL 110</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 111</fw>
-			<fw type="header">112 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 113</fw>
-			<fw type="header">114 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 115</fw>
-			<fw type="header">MANUEL 116</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 117</fw>
-			<fw type="header">118 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 119</fw>
-			<fw type="header">120 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 121</fw>
-			<fw type="header">122 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 123</fw>
-			<fw type="header">124 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 125</fw>
-			<fw type="header">126 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 127</fw>
-			<fw type="header">128 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 129</fw>
-			<fw type="header">130 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 131</fw>
 			<fw type="header">Injuria, Contumelia. MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 133</fw>
-			<fw type="header">134 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 135</fw>
-			<fw type="header">MANUEL 136</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 137</fw>
-			<fw type="header">138 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 139</fw>
-			<fw type="header">140 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 141</fw>
-			<fw type="header">142 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 143</fw>
-			<fw type="header">144 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 145</fw>
-			<fw type="header">146 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 147</fw>
-			<fw type="header">148 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 149</fw>
-			<fw type="header">150 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 151</fw>
-			<fw type="header">152 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 153</fw>
-			<fw type="header">154 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 155</fw>
-			<fw type="header">156 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 157</fw>
-			<fw type="header">158 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 159</fw>
-			<fw type="header">160 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 161</fw>
-			<fw type="header">162 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 163</fw>
-			<fw type="header">164 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 165</fw>
-			<fw type="header">166 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 167</fw>
-			<fw type="header">168 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 169</fw>
-			<fw type="header">170 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 171</fw>
-			<fw type="header">172 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 173</fw>
-			<fw type="header">174 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 175</fw>
-			<fw type="header">176 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 177</fw>
-			<fw type="header">178 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 179</fw>
-			<fw type="header">180 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 181</fw>
-			<fw type="header">182 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 183</fw>
-			<fw type="header">184 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 185</fw>
-			<fw type="header">186 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 187</fw>
-			<fw type="header">188 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 189</fw>
-			<fw type="header">190 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 191</fw>
-			<fw type="header">192 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 193</fw>
-			<fw type="header">MANUEL 194</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 195</fw>
-			<fw type="header">196 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 197</fw>
-			<fw type="header">198 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 199</fw>
-			<fw type="header">200 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 201 gnée d'un temps froid et orageux; nimbus,
 				d'un temps</fw>
-			<fw type="header">202 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 203</fw>
-			<fw type="header">204 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 205 ment d'étude, c'est un décor indispensable
 				dans une salle</fw>
-			<fw type="header">206 MANUEL</fw>
-			<fw type="header">207 DE SYNONYMIE LATINE.</fw>
-			<fw type="header">MANUEL 208</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 209</fw>
-			<fw type="header">MANUEL 210</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 211</fw>
-			<fw type="header">212 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 213</fw>
-			<fw type="header">214 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 21 5</fw>
-			<fw type="header">216 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 217</fw>
-			<fw type="header">MANUEL 218</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 219</fw>
-			<fw type="header">220 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 221</fw>
-			<fw type="header">222 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 223</fw>
-			<fw type="header">224 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 225</fw>
-			<fw type="header">226 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 227</fw>
-			<fw type="header">228 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 229 de bien-être; valens et validus, comme une
 				faculté qui</fw>
-			<fw type="header">230 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 231</fw>
-			<fw type="header">232 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 233</fw>
-			<fw type="header">234 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 235</fw>
-			<fw type="header">236 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 237</fw>
-			<fw type="header">238 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 239</fw>
-			<fw type="header">240 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 241</fw>
-			<fw type="header">242 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 243</fw>
-			<fw type="header">244 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 245</fw>
-			<fw type="header">246 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 247</fw>
-			<fw type="header">248 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 249</fw>
-			<fw type="header">250 MANUEL</fw>
 			<fw type="header">DE SYNONYMIE LATINE. 251 bras, le recipiens sur son coeur, le
 				suscipiens sur les bras</fw>
-			<fw type="header">252 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 253</fw>
-			<fw type="header">254 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 255</fw>
-			<fw type="header">256 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 257</fw>
-			<fw type="header">258 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 259</fw>
-			<fw type="header">260 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 261</fw>
-			<fw type="header">262 MANUEI.</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 263</fw>
-			<fw type="header">264 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 265</fw>
-			<fw type="header">266 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 267</fw>
-			<fw type="header">268 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 269</fw>
-			<fw type="header">270 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 271</fw>
-			<fw type="header">272 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 273</fw>
-			<fw type="header">274 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 275</fw>
-			<fw type="header">MANUEL 276</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 277</fw>
-			<fw type="header">278 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 279</fw>
-			<fw type="header">280 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 284</fw>
-			<fw type="header">282 MANUEL</fw>
-			<fw type="header">DE SYNONYMIE LATINE. 283</fw>
-			<fw type="header">284 MANUEL</fw>
 			<entry>
 				<form type="variant">A</form>
 			</entry>
@@ -319,22 +42,18 @@
 			<entry>
 				<form type="lemma">Abesse. Deesse. Deficere</form>
 				<pc>. 1.</pc>
-				<entry>Abesse marque une ab¬ sence qui se réduit à une relation de lieu, ne pas être
+				<sense>Abesse marque une ab¬ sence qui se réduit à une relation de lieu, ne pas être
 					quelque part, par opposition à adesse; deesse marque une absence qui rend un
 					tout incomplet, comme manquer, faire défaut, par opposition à esse et superesse.
 					Cic. Brut. 80. Calidio hoc unum, si nihil utilitatis habebat, abfuit, si opus
 					erat, defuit. Si vous jugez cette qualité inutile, j'avouerai qu'elle n'existait
 					pas chez Calidius; si vous la jugez nécessaire, je conviendrai qu'elle lui
-					faisait défaut</entry>
+					faisait défaut</sense>
 				<pc>. 2.</pc>
-				<entry>Deesse s'applique à ce qui nous fait complètement défaut, deficere, à ce qui
-					commence à nous faire défaut.</entry>
-			</entry>
-			<entry>
-				<form type="lemma">Cic. Verr. I</form>
-				<pc>, 11.</pc>
-				<entry>Vererer ne oratio deesset, ne vox viresque deficerent. Je craindrais que la
-					parole ne me manque, que ma voix et mes forces ne faiblissent</entry>
+				<sense>Deesse s'applique à ce qui nous fait complètement défaut, deficere, à ce qui
+					commence à nous faire défaut. Cic. Verr. I, 11. Vererer ne oratio deesset, ne
+					vox viresque deficerent. Je craindrais que la parole ne me manque, que ma voix
+					et mes forces ne faiblissent</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -343,8 +62,6 @@
 				<form type="variant">Negare</form>
 			</entry>
 			<pc>. .</pc>
-			<dictScrap><form type="variant">3</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Abolere. Delere</form>
 				<pc>.</pc>
@@ -1612,7 +1329,8 @@
 				<form type="variant">Censere</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">»</form>
+			<dictScrap>
+				<form type="variant">»</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Arcana. Secreta. Mysteria</form>
@@ -1624,19 +1342,14 @@
 					secrets religieux comparables aux mystères d'Éleusis ; en¬ fin, secreta, les
 					secrets, au sens le plus vulgaire, ceux qui ont une origine purement humaine, en
 					parlant des choses qu'on tient cachées par crainte. Tac. I, 6. Sallustius
-					Cris-</sense>
-			</entry>
-			<entry>
-				<form type="lemma">pus particeps secretorum</form>
-				<pc>...</pc>
-				<entry>monuit Liviam ne arcana do¬ mus vulgarentur. Sallustius Crispus, pour qui
-					Tibère et Livie n'avaient rien de caché, engagea Livie à ne plus livrer au
-					public les augustes secrets de la famille impériale. Arcere. Prohibere. Arcere,
-					repousser et empêcher d'entrer, par opposition à admittere; prohibere, tenir
-					éloi¬ gné et empêcher d'approcher, par opposition à adhibere. L'arcens se tient
-					sur la défensive, comme le resistens, et agit par sollicitude pour la personne
-					menacée; le prohi¬ bens prend l'offensive, comme le propulsans, et agit par
-					inimitié contre l'agresseur</entry>
+					Cris-pus particeps secretorum ... monuit Liviam ne arcana do¬ mus vulgarentur.
+					Sallustius Crispus, pour qui Tibère et Livie n'avaient rien de caché, engagea
+					Livie à ne plus livrer au public les augustes secrets de la famille impériale.
+					Arcere. Prohibere. Arcere, repousser et empêcher d'entrer, par opposition à
+					admittere; prohibere, tenir éloi¬ gné et empêcher d'approcher, par opposition à
+					adhibere. L'arcens se tient sur la défensive, comme le resistens, et agit par
+					sollicitude pour la personne menacée; le prohi¬ bens prend l'offensive, comme le
+					propulsans, et agit par inimitié contre l'agresseur</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -1645,21 +1358,16 @@
 				<entry>Arcessere et accersere, termes généraux, signifient simplement faire venir;
 					accire, inviter, suppose qu'on s'adresse à un égal ; evocare, mander, à un
 					inférieur. L'arcessens pousse à se Tu invita mulieres, ego accivero pueros.
-					Chargeons-nous. » toi de prier les femmes, moi d'inviter les jeunes gens</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Comparez avec Dej</form>
-				<pc>. 5.</pc>
-				<entry>Venit vel rogatus ut amicus, vel arcessitus ut socius, vel evocatus ut qui
-					senatui parere didi¬ cisset. Il s'est présenté ou en ami dont on souhaitait
-					l'ar¬ rivée, ou en allié qu'on faisait venir, ou en sujet mandé par le sénat et
-					dressé à lui obéir. Liv. X, 19. Collège auxi¬ lium quod acciendum ultro fuerit.
-					Le secours de son col¬ lègue qu'il aurait dû demander sans façon. Comparez avec
-					XLIV, 31. Evocati litteris imperatoris. Mandés par un ordre écrit du général. Et
-					XXXIX, 11. AEbutia accita ad Sulpiciam venit. Ebutia vint trouver Sulpicie comme
-					elle l'en avait priée. Mais 12. Ut Hispalam libertinam arcesse¬ ret ad sese.
-					Afin de faire venir l'affranchie Hispala</entry>
+					Chargeons-nous. » toi de prier les femmes, moi d'inviter les jeunes gens.
+					Comparez avec Dej. 5. Venit vel rogatus ut amicus, vel arcessitus ut socius, vel
+					evocatus ut qui senatui parere didi¬ cisset. Il s'est présenté ou en ami dont on
+					souhaitait l'ar¬ rivée, ou en allié qu'on faisait venir, ou en sujet mandé par
+					le sénat et dressé à lui obéir. Liv. X, 19. Collège auxi¬ lium quod acciendum
+					ultro fuerit. Le secours de son col¬ lègue qu'il aurait dû demander sans façon.
+					Comparez avec XLIV, 31. Evocati litteris imperatoris. Mandés par un ordre écrit
+					du général. Et XXXIX, 11. AEbutia accita ad Sulpiciam venit. Ebutia vint trouver
+					Sulpicie comme elle l'en avait priée. Mais 12. Ut Hispalam libertinam arcesse¬
+					ret ad sese. Afin de faire venir l'affranchie Hispala</entry>
 				<pc>. 2.</pc>
 				<entry>Arcessere signifiait primitivement pousser à venir; accersere, à accourir en
 					toute hâte; mais la ressemblance de son a fait confondre les deux mots</entry>
@@ -1671,7 +1379,8 @@
 				<form type="variant">Angustus</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">3</form>
+			<dictScrap>
+				<form type="variant">3</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Ardere. Flagrare</form>
@@ -1824,7 +1533,8 @@
 				<form type="variant">Spernere</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">7</form>
+			<dictScrap>
+				<form type="variant">7</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Assentiri. Assentari. Blandiri. Adulari</form>
@@ -2108,12 +1818,6 @@
 				<pc>, v.</pc>
 				<form type="variant">Armus</form>
 			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">2 ;</form>
-			</entry>
-			<dictScrap><form type="variant">B</form>
-			</dictScrap>
 			<entry>
 				<form type="lemma">Balbus. Blaesus</form>
 				<pc>.</pc>
@@ -2399,7 +2103,8 @@
 				<form type="variant">Iter</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">pie</form>
+			<dictScrap>
+				<form type="variant">pie</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Campus</form>
@@ -2761,6 +2466,17 @@
 					futurum, nunquam hoc eventurum credi¬ dissem, à savoir : si quis mihi
 					pradixisset. Cela n'entrait pas dans mes prévisions; je n'aurais jamais cru que
 					cela pût arriver (même si on me l'avait prédit)</entry>
+				<pc>4.</pc>
+				<entry>Opinor, employé sous forme de parenthèse est une formule de modestie, comme
+					οἶμαι, à ce que je crois; credo est une formule d'ironie, comme ῶς ἐοικεν. Ce
+					der¬ nier peut signifier : 1° je l'imagine bien, j'imagine, dans des
+					affirmations qui vont d'elles-mêmes, et l'ironie tombe alors soit sur celui
+					auquel il faut dire ou répéter les choses, soit sur celui qui paraîtrait tenté
+					d'avoir quel¬ que doute; 2° oui, je le crois, ou : ne devrait-on pas croire? à
+					propos d'affirmations absurdes qu'on se juge autorisé à prêter aux autres et à
+					placer dans leur bouche; 3° je le crois, naturellement, cela se conçoit, à
+					propos de propositions évidentes, quand on demande pour ainsi dire la permission
+					de ne pas les commenter</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -2785,20 +2501,6 @@
 				<form type="lemma">Celsus</form>
 				<pc>, v.</pc>
 				<form type="variant">Altus</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<pc>4.</pc>
-				<entry>Opinor, employé sous forme de parenthèse est une formule de modestie, comme
-					οἶμαι, à ce que je crois; credo est une formule d'ironie, comme ῶς ἐοικεν. Ce
-					der¬ nier peut signifier : 1° je l'imagine bien, j'imagine, dans des
-					affirmations qui vont d'elles-mêmes, et l'ironie tombe alors soit sur celui
-					auquel il faut dire ou répéter les choses, soit sur celui qui paraîtrait tenté
-					d'avoir quel¬ que doute; 2° oui, je le crois, ou : ne devrait-on pas croire? à
-					propos d'affirmations absurdes qu'on se juge autorisé à prêter aux autres et à
-					placer dans leur bouche; 3° je le crois, naturellement, cela se conçoit, à
-					propos de propositions évidentes, quand on demande pour ainsi dire la permission
-					de ne pas les commenter</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -3053,8 +2755,8 @@
 					la réalité des choses. La notitia peut se borner à des notions de rencontre; la
 					scientia doit s'être rendu l'objet familier, l'avoir appro¬ fondi à force de
 					travail. Cic. Sen. 4, 12. Quanta notitia antiquitatis ! quanta scientia juris
-					romani ! Quelle prati¬ que de l'antiquité ! quelle science du droit
-					romain</entry>
+					romani ! Quelle prati¬ que de l'antiquité ! quelle science du droit romain
+					!</entry>
 				<pc>! 2.</pc>
 				<entry>Lignarus ne possède pas cette notitia, l'inscius cette scientia. Tac. Hist.
 					I, 11. AEgyptum provinciam insciam legum, ignaram magistratuum. La province
@@ -3540,18 +3242,13 @@
 				<sense>Contaminare dé¬ signe la souillure par son côté nuisible comme venant gâter
 					ce qui était sain et utile; inquinare, par son côté dégoûtant, elle défigure la
 					beauté ; polluere, par son côté moral, elle viole la sainteté et la pureté. Le
-					second de ces trois verbes répond à μορύσσειν ; le troisième à μιαίνειν</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Caecil. 21</form>
-				<pc>, 70.</pc>
-				<entry>Judiciis corruptis et contaminatis. Les arrêts de la justice brisés et
-					flétris. Comparez avec Coel. 6. Libidinibus inquinari. Porter les marques
-					affreuses de la débauche. Et Rosc. Am. 26, 71. Noluerunt in mare de¬ ferri ne
-					ipsum pollueret, quo caetera quae violata sunt expiari putantur. On ne voulut
-					pas souffrir qu'il fût jeté à la mer, de peur de profaner la mer même, qui passe
-					pour purifier toutes les souillures</entry>
+					second de ces trois verbes répond à μορύσσειν ; le troisième à μιαίνειν . Cic.
+					Caecil. 21, 70. Judiciis corruptis et contaminatis. Les arrêts de la justice
+					brisés et flétris. Comparez avec Coel. 6. Libidinibus inquinari. Porter les
+					marques affreuses de la débauche. Et Rosc. Am. 26, 71. Noluerunt in mare de¬
+					ferri ne ipsum pollueret, quo caetera quae violata sunt expiari putantur. On ne
+					voulut pas souffrir qu'il fût jeté à la mer, de peur de profaner la mer même,
+					qui passe pour purifier toutes les souillures</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -3581,9 +3278,8 @@
 			<entry>
 				<form type="lemma">Contentum esse</form>
 				<pc>, v.</pc>
-				<form type="variant">Satisha¬</form>
+				<form type="variant">Satis habere</form>
 			</entry>
-			<pc>5</pc>
 			<entry>
 				<form type="lemma">Continentia</form>
 				<pc>, v.</pc>
@@ -3668,17 +3364,12 @@
 				<entry>Contumelia, atteinte portée à l'honneur d'autrui, comme l'affront; injuria,
 					atteinte au droit d'autrui, comme l'injustice. Un coup est une injuria en tant
 					que je porte la main sur quelqu'un, et une contumelia en tant que je lui attire
-					par une pareille action la réputation fâcheuse d'être un lâche ou un
-					valet</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Sen. Clem. I</form>
-				<pc>, 10.</pc>
-				<entry>Contumelias quae acerbiores principi¬ bus solent esse quam injuriae. Les
-					affronts qui parais¬ 3. sent d'habitude plus amers aux princes que les
-					injustices. Pacuv. dans Non. Patior facile injuriam si vacua est con¬ tumelia.
-					Je supporte aisément une injustice pourvu qu'il n'y ait pas d'affront</entry>
+					par une pareille action la réputation fâcheuse d'être un lâche ou un valet. Sen.
+					Clem. I, 10. Contumelias quae acerbiores principi¬ bus solent esse quam
+					injuriae. Les affronts qui parais¬ 3. sent d'habitude plus amers aux princes que
+					les injustices. Pacuv. dans Non. Patior facile injuriam si vacua est con¬
+					tumelia. Je supporte aisément une injustice pourvu qu'il n'y ait pas
+					d'affront</entry>
 				<pc>. 2.</pc>
 				<entry>Contumelia et injuria sont des actions; offensio et offensa marquent un état,
 					à savoir : le chagrin de l'offensé, le ressentiment par opposition à gratia ou à
@@ -3783,8 +3474,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Coxa. Lxtus</form>
-				<pc>. Femur.</pc>
+				<form type="lemma">Coxa. Latus. Femur.</form>
 				<entry>Coxa et coxendix, la hanche ; latus, la partie comprise entre la hanche et
 					l'aisselle ou le flanc; femur et femen, la partie située immédiatement au-dessus
 					de la hanche ou partie supérieure de la cuisse</entry>
@@ -4072,14 +3762,9 @@
 					un état par opposition au calme de l'âme. Il faut que cupido soit joint, et
 					cupidi¬ tas peut être joint à un génitif exprimé ou sous-entendu ; cupido se
 					rapporte alors par préférence aux biens ordi¬ naires etlà l'argent; cupiditas, à
-					des biens de toute sorte</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Vell. P. II</form>
-				<pc>, 33.</pc>
-				<entry>Pecuniae cupidine, par un vif amour de l'argent. Et tout à la suite :
-					interminatam imperii cupidi¬ tatem. Une passion démésurée d'autorité</entry>
+					des biens de toute sorte. Vell. P. II, 33. Pecuniae cupidine, par un vif amour
+					de l'argent. Et tout à la suite : interminatam imperii cupidi¬ tatem. Une
+					passion démésurée d'autorité</entry>
 				<pc>. 2.</pc>
 				<entry>Cupido et cupiditas sont opposés au désir modéré; mais libido, c'est la
 					fantaisie et le caprice par opposition à la volonté raisonnable, ratio ou
@@ -4175,7 +3860,8 @@
 				<form type="variant">Navigium</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">D</form>
+			<dictScrap>
+				<form type="variant">D</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Damnum. Detrimentum. Jactura</form>
@@ -4539,8 +4225,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Deterior</form>
-				<pc>. Pejor.</pc>
+				<form type="lemma">Deterior. Pejor.</form>
 				<entry>Deterior se dit, comme χείρων, de celui qui est inférieur aux autres, qui est
 					moins estimable ; pejor, comme χακίον et pire, de celui qui est plus cor¬ rompu,
 					plus dangereux. On trouve dans Sall. Or. Phil</entry>
@@ -4585,8 +4270,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Deversorium. Hospitium. Caupona. Taberna. Popina</form>
-				<pc>. Ganeum.</pc>
+				<form type="lemma">Deversorium. Hospitium. Caupona. Taberna. Popina. Ganeum.</form>
 				<entry>Deversorium, tout quartier où l'on descend tant que dure un voyage, dans une
 					propriété à soi, chez des amis, chez des hôteliers; hospitium, l'asile qu'on
 					trouve chez un ami avec lequel on est en relation d'hospitalité ; caupona,
@@ -4700,13 +4384,9 @@
 					et diu, de jour, par opposition à noctu; mais interdiu se prend dans toute sorte
 					de circon¬ stances; diu est toujours joint à noctuque. Cic. Att. XIII, 28.
 					Credibile non est quantum scribam die. Vous auriez peine à croire combien
-					j'écris chaque jour. Cels. Med. I, - 3. Qui semel et qui bis die cibum</entry>
-			</entry>
-			<pc>..</pc>
-			<entry>
-				<pc>. assumit.</pc>
-				<entry>Celui qui mange une fois et celui qui mange deux fois par jour. Tac. H. II.,
-					5. Noctu diuque. Nuit et jour</entry>
+					j'écris chaque jour. Cels. Med. I, - 3. Qui semel et qui bis die cibum...
+					assumit. Celui qui mange une fois et celui qui mange deux fois par jour. Tac. H.
+					II., 5. Noctu diuque. Nuit et jour</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -4722,9 +4402,9 @@
 					loin de faire la chose présentement, on la laisse là; proferre et procrastinare
 					marquent le délai pris par le côté positif : la chose aura lieu dans un temps à
 					venir ; une autre fois, sans dire quand, si l'on se sert de proferre; dans un
-					avenir très-rapproché, si l'on se sert de procrustinare 2. Differre, etc., se
-					disent d'une action qu'on tarde à commencer; prorogare, d'un état auquel on
-					tarde à mettre fin, comme prolonger</entry>
+					avenir très-rapproché, si l'on se sert de procrustinare </entry>
+				<entry> Differre, etc., se disent d'une action qu'on tarde à commencer; prorogare,
+					d'un état auquel on tarde à mettre fin, comme prolonger</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -4880,8 +4560,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Disertus. Facundus</form>
-				<pc>. Eloquens.</pc>
+				<form type="lemma">Disertus. Facundus. Eloquens.</form>
 				<entry>Disertus et facundus désignent un talent oratoire donné par la nature;
 					eloquens un art de la parole acquis et perfectionné. Celui qui parle avec clarté
 					et précision s'appelle disertus, celui qui parle avec élégance et agrément,
@@ -4950,7 +4629,8 @@
 				<entry>Diu, Diuturnus, Diutinus, v</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">Pridi</form>
+			<dictScrap>
+				<form type="variant">Pridi</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Divellere</form>
@@ -5034,8 +4714,7 @@
 			</entry>
 			<pc>,</pc>
 			<entry>
-				<form type="lemma">Doctor. Praeceptor</form>
-				<pc>. Magister.</pc>
+				<form type="lemma">Doctor. Praeceptor. Magister.</form>
 				<entry>Doctor, le maître qui expose la théorie considéré par rapport à la science ou
 					à Part qu'il enseigne, il s'oppose à l'auditeur; praeceptor, le maître qui
 					initie à la pratique par rapport au pupille qu'il façonne, il s'oppose à
@@ -5206,7 +4885,8 @@
 					ont été égale¬ ment réparties en deux catégories</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">E</form>
+			<dictScrap>
+				<form type="variant">E</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Ebrius. Vinolentus. Temulentus. Crapula. Ebriosus</form>
@@ -5433,9 +5113,8 @@
 					pour un siècle que ce Caton qui se contentait d'un cheval commun ou plutôt d'une
 					place sur ce cheval ! Est¬ ce que vous ne préférez pas à tous les poneys
 					potelés, aux coursiers d'Asturie, aux trotteurs, cet unique cheval que Caton
-					pansait lui-même</sense>
+					pansait lui-même ?</sense>
 			</entry>
-			<pc>?</pc>
 			<entry>
 				<form type="lemma">Ergastulum</form>
 				<pc>, v.</pc>
@@ -5792,8 +5471,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Extremus. Ultimus. Postremus</form>
-				<pc>. Novissimus.</pc>
+				<form type="lemma">Extremus. Ultimus. Postremus. Novissimus.</form>
 				<entry>Extremus et ultimus, le dernier, quand il s'agit d'une quantité indi¬ vise,
 					d'un espace continu : extremus se dit de la partie extrême d'un espace ou d'une
 					surface, par opposition à intimus et medius, comme ἔσχατος; ultimus, du point
@@ -5812,7 +5490,8 @@
 				<form type="variant">Praeda</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">F</form>
+			<dictScrap>
+				<form type="variant">F</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Faber. Opifex. Artifex</form>
@@ -5843,22 +5522,17 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Facies. Os. Vultus</form>
-				<pc>. Oculi.</pc>
+				<form type="lemma">Facies. Os. Vultus. Oculi.</form>
 				<entry>Facies et oculi, le visage et les yeux, au sens physique, comme traits
 					naturels et comme organe de la vue; os et vultus expriment en outre un rapport
 					moral : l'état temporaire et même habituel de l'âme se révèle par les airs et
 					les yeux. Os se dit du regard et de l'expression correspondante de la bouche;
 					vultus se dit des mouvements de l'oeil et de l'aspect simultané des traits qui
-					l'avoisinent, du front serein ou sombre. Tac.</entry>
-			</entry>
-			<entry>
-				<form type="lemma">Agr. 44</form>
-				<pc>.</pc>
-				<sense>Nihil metus in vultu, gratia oris supererat. Son regard ne trahissait pas la
-					moindre crainte et la grâce était le trait dominant de sa physionomie. Cic.
-					Orat. 18, 60. Ut imago animi est vultus, sic indices oculi. Le front et les yeux
-					sont le miroir de l'âme; les yeux sont même des dé¬ lateurs</sense>
+					l'avoisinent, du front serein ou sombre. Tac. Agr. 44. Nihil metus in vultu,
+					gratia oris supererat. Son regard ne trahissait pas la moindre crainte et la
+					grâce était le trait dominant de sa physionomie. Cic. Orat. 18, 60. Ut imago
+					animi est vultus, sic indices oculi. Le front et les yeux sont le miroir de
+					l'âme; les yeux sont même des dé¬ lateurs</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -6005,8 +5679,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Fatigatus. Fessus</form>
-				<pc>. Lassus.</pc>
+				<form type="lemma">Fatigatus. Fessus. Lassus.</form>
 				<entry>Fatigatus et fessus expriment l'état d'une personne qui soupire après le
 					repos à la suite d'un effort dont elle se ressent désagréablement : fatiga¬ tus,
 					au sens passif; il se dit de celui que la fatigue a gagné; fessus, au sens
@@ -6015,9 +5688,10 @@
 					qu'on est affaibli par lé travail ou le mouvement. Cels. I, 2,15. Exer¬
 					citationis finis esse debet sudor aut certe lassitudo, quaee citra fatigationem
 					sit. Il faut suspendre l'exercice à la pre¬ mière sueur, ou du moins à l'arrivée
-					de la lassitude qui précède le sentiment de la fatigue. Sall. Jug. 57 1. Opere
-					castrorum et praeeliorum fessi lassique erant, Les campe¬ ments et les combats
-					les avaient fatigués et lassés</entry>
+					de la lassitude qui précède le sentiment de la fatigue. Sall. Jug. 57, 1.
+						<note>1 Chap. III de la collection Lemaire et de la collection
+						Panckoucke</note>Opere castrorum et praeeliorum fessi lassique erant, Les
+					campe¬ ments et les combats les avaient fatigués et lassés</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -6064,20 +5738,17 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Felix. Prosper. Faustus. Fortunatus</form>
-				<pc>. Beatus.</pc>
+				<form type="lemma">Felix. Prosper. Faustus. Fortunatus. Beatus.</form>
+				<pc/>
 				<entry>Felix, faelix, terme général en parlant du bonheur; il a le sens actif et le
 					sens neutre : qui rend heureux et qui est heu¬ reux; prosper et faustus n'ont
 					que le sens actif : qui donne, qui apporte le bonheur; prosperum se dit de ce
 					qui vient remplir les espérances et les voeux de l'homme, de ce qui arrive comme
 					à souhait; faustum, de ce qui est un effet de la faveur, de la grâce des dieux,
-					une sorte de bénédic¬ 1 Chap. LIIl de la collection Lemaire et de la collection
-					Panckoucke</entry>
-				<pc>. tion.</pc>
-				<entry>Fortunatus et beatus ont, par préférence ou même exclusivement la
-					signification intransitive ou passive, fortuné, comblé par le bonheur : le
-					fortunatus est un fa¬ vori de la fortune, comme εύτυχής; le beatus se sent heu¬
-					reux et content, comme les θεοί δεῖα ζάωντες, μακάριος</entry>
+					une sorte de bénédic¬ tion. Fortunatus et beatus ont, par préférence ou même
+					exclusivement la signification intransitive ou passive, fortuné, comblé par le
+					bonheur : le fortunatus est un fa¬ vori de la fortune, comme εύτυχής; le beatus
+					se sent heu¬ reux et content, comme les θεοί δεῖα ζάωντες, μακάριος</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -6147,8 +5818,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Ferocia. Ferocitas. Virtus</form>
-				<pc>. Fortitudo.</pc>
+				<form type="lemma">Ferocia. Ferocitas. Virtus. Fortitudo.</form>
 				<entry>Ferocia et fe¬ rocitas, le courage naturel et sauvage que peuvent possé¬ der
 					le barbare et la bête; ferocia dans l'application, fero¬ citas comme instinct.
 					Virtus et fortitudo, le courage moral dont l'homme ne devient capable qu'à un
@@ -6164,16 +5834,10 @@
 				<pc>. 1.</pc>
 				<entry>Ferre, φέρειν, porter, en général ; portare et bajulare, βαστάζειν, transpor¬
 					ter un fardeau : portare, pour soi ou pour les autres; ba- julare, en qualité de
-					portefaix. Dans Caes. B. G. I, 16</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">AEdui frumentum</form>
-				<pc>...</pc>
-				<entry>conferri, comportari, adesse dicere, conferre se rapporte à la livraison que
-					chaque sujet vient faire de sa contribution partielle entre les mains des au¬
-					torités locales; comportare, à la remise à César de toutes les réquisitions
-					réunies</entry>
+					portefaix. Dans Caes. B. G. I, 16. AEdui frumentum ... conferri, comportari,
+					adesse dicere, conferre se rapporte à la livraison que chaque sujet vient faire
+					de sa contribution partielle entre les mains des au¬ torités locales;
+					comportare, à la remise à César de toutes les réquisitions réunies</entry>
 				<pc>. 2.</pc>
 				<entry>Ferre, portare et bajulare n'expriment qu'un rapport éventuel, celui du
 					porteur à son fardeau; gerere, gestare expriment, comme φορεῖν, un rapport plus
@@ -6206,14 +5870,9 @@
 					Thyest. 307. Leve est miserias ferre, perferre est grave. Il est aisé d'être
 					mal¬ heureux, il est difficile de l'être avec constance. Plin. H. N. XXXVI, 21.
 					Qui perpeti medicinam non toleraverant. Ceux qui n'avaient pas eu la force
-					d'endurer le remède</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Tac. Ann. III</form>
-				<pc>, 3.</pc>
-				<entry>Magnitudinem mali perferre visu non toleravit. Elle n'eut point la force de
-					braver la vue de ce grand malheur</entry>
+					d'endurer le remède Tac. Ann. III, 3. Magnitudinem mali perferre visu non
+					toleravit. Elle n'eut point la force de braver la vue de ce grand
+					malheur</entry>
 				<pc>. 3.</pc>
 				<entry>Tolerare, continuer à se tenir droit et ne pas suc¬ comber sous un fardeau;
 					sustinere, soutenir le fardeau même et ne point le laisser tomber</entry>
@@ -6225,18 +5884,17 @@
 					ut</entry>
 				<pc>. 5.</pc>
 				<entry>Sustinere signifie en général soutenir; sustentare, soutenir à force de mal
-					et de peine. Cic. Muren</entry>
-				<pc>. 2.</pc>
-				<entry>Quis mihi in republica... debet esse conjunctior quam is cui respublica a me
-					uno traditur sustinenda, magnis meis la¬ 5 boribus ac periculis sustentata? Quel
-					est l'homme d'État sur l'attachement duquel je dois compter? N'est-ce pas celui
-					que j'appelle moi-même, et moi seul, à devenir l'ap¬ pui de l'État que j'ai
-					péniblement étayé au prix de grandes fatigues et de grands dangers? Curt. VIII,
-					4, 15. Forte Macedo gregarius miles seque et arma sustentans in castra. venit.
-					Le hasard amena enfin dans le camp un simple sol¬ dat macédonien qui se traînait
-					avec ses armes. Comparez avec V, 1, 11. Tandem Laconum acies languescere,
-					lubrica arma sudore vix sustinens. La ligne des Spartiates faiblit enfin, leurs
-					armes leur échappaient de fatigue, ils en sou¬ tenaient à peine le poids</entry>
+					et de peine. Cic. Muren. 2. Quis mihi in republica... debet esse conjunctior
+					quam is cui respublica a me uno traditur sustinenda, magnis meis la¬ 5 boribus
+					ac periculis sustentata? Quel est l'homme d'État sur l'attachement duquel je
+					dois compter? N'est-ce pas celui que j'appelle moi-même, et moi seul, à devenir
+					l'ap¬ pui de l'État que j'ai péniblement étayé au prix de grandes fatigues et de
+					grands dangers? Curt. VIII, 4, 15. Forte Macedo gregarius miles seque et arma
+					sustentans in castra. venit. Le hasard amena enfin dans le camp un simple sol¬
+					dat macédonien qui se traînait avec ses armes. Comparez avec V, 1, 11. Tandem
+					Laconum acies languescere, lubrica arma sudore vix sustinens. La ligne des
+					Spartiates faiblit enfin, leurs armes leur échappaient de fatigue, ils en sou¬
+					tenaient à peine le poids</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -6915,7 +6573,8 @@
 					d'arme au besoin</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">G</form>
+			<dictScrap>
+				<form type="variant">G</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Galea</form>
@@ -7008,30 +6667,15 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<entry>Gelicidium, Gelidus, GeLU, v</entry>
+				<entry>Gelicidium, Gelidus, Gelu,</entry>
+				<pc>, v.</pc>
+				<form type="variant">Frigere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="variant">Gens</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Natio. Populus. Civitas</form>
-				<pc>. 1.</pc>
-				<entry>Gens et natio, peuple au sens physique et ethnographique, comme une société
-					Gemere</entry>
+				<form type="lemma">Gemere</form>
 				<pc>, v.</pc>
 				<form type="variant">Suspirare</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Gena</form>
-				<pc>, v.</pc>
-				<form type="variant">Mala</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">Frigere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -7041,23 +6685,25 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
+				<form type="lemma">Gena</form>
+				<pc>, v.</pc>
+				<form type="variant">Mala</form>
+			</entry>
+			<entry>
 				<form type="lemma">Generare</form>
 				<pc>, v.</pc>
 				<form type="variant">Creare</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<entry>fondée sur une origine et une parenté commune qui peut exister en dehors de
-					tout progrès dans la civilisation ; populus et civitas, peuple au sens
-					politique, comme so¬ ciété perfectionnée, civilisée et dotée d'une
-					constitution</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Sall. Cat. 10</form>
-				<pc>, 1.</pc>
-				<entry>Nationes ferae et populi ingentes subacti. Des tribus sauvages et de grands
-					peuples soumis par la force</entry>
+				<form type="lemma">Gens. Natio. Populus. Civitas</form>
+				<pc>. 1.</pc>
+				<entry>Gens et natio, peuple au sens physique et ethnographique, comme une société
+					fondée sur une origine et une parenté commune qui peut exister en dehors de tout
+					progrès dans la civilisation ; populus et civitas, peuple au sens politique,
+					comme so¬ ciété perfectionnée, civilisée et dotée d'une constitution. Sall. Cat.
+					10, 1. Nationes ferae et populi ingentes subacti. Des tribus sauvages et de
+					grands peuples soumis par la force</entry>
 				<pc>. 2.</pc>
 				<entry>Gens, race entière qui peut contenir plusieurs peu¬ ples ou peuplades, φυλον;
 					natio, tribu, peuplade, peuple issu et détaché de cette race, ἐθνος. Vell. Pat.
@@ -7365,7 +7011,8 @@
 				<form type="variant">Orbis</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">H</form>
+			<dictScrap>
+				<form type="variant">H</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Habena</form>
@@ -7588,8 +7235,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Hortari</form>
-				<pc>. Monere.</pc>
+				<form type="lemma">Hortari. Monere.</form>
 				<entry>L'exhortation, hortatio,, s'adresse directement à la volonté pour l'obliger à
 					prendre un parti, tandis que l'avertissement, monitio, s'adresse à la con¬
 					science et au jugement. L'hortatio a pour but l'action même; la monitio, une
@@ -7623,7 +7269,7 @@
 			<entry>
 				<form type="lemma">Hosticus, Hostis</form>
 				<pc>, v.</pc>
-				<form type="variant">Adversa</form>
+				<form type="variant">Adversarius</form>
 			</entry>
 			<pc>-</pc>
 			<entry>
@@ -7632,7 +7278,8 @@
 				<form type="variant">Adhuc</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">rit</form>
+			<dictScrap>
+				<form type="variant"></form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Humanitas. Comitas</form>
@@ -7660,18 +7307,13 @@
 					lui-même, des facul¬ tés et de la vocation qui en font un être perfectible, et
 					alors humane facere est l'expression du développement moral, de la noblesse dans
 					les sentiments, comme φιλαν¬ θρώπως; humaniter facere, celle du progrès dans
-					l'usage du monde, de la politesse, de l'aménité, comme ἐπιεικώς</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Phil. I</form>
-				<pc>, 4.</pc>
-				<entry>Si quid mihi humanitus accidisset. S'il m'arrivait un de ces accidents
+					l'usage du monde, de la politesse, de l'aménité, comme ἐπιεικώς. Cic. Phil. I,
+					4. Si quid mihi humanitus accidisset. S'il m'arrivait un de ces accidents
 					auxquels la pauvre huma¬ nité est sujette. Comparez avec Tusc. II, 27, 65.
 					Graeci morbos tolerantes et humane ferunt. Contre des maladies à supporter les
 					Grecs sont forts, ils sont hommes, et Qu. Fr. II, 1. Fecit humaniter Licinius,
 					quod ad me misso se¬ natu vesperi venit. C'est un aimable homme que Licinius; il
-					est venu chez moi le soir après la clôture du sénat</entry>
+					est venu chez moi le soir après la clôture du sénat</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -7699,17 +7341,13 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">I -J</form>
-			</entry>
-			<entry>
 				<form type="lemma">Jacere</form>
 				<pc>, v.</pc>
 				<form type="variant">Cubare</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Jactatio. Gloriatio. Ostentatio</form>
-				<pc>. Venditatio.</pc>
+				<form type="lemma">Jactatio. Gloriatio. Ostentatio. Venditatio.</form>
 				<entry>Jactatio et gloriatio, défauts qui ont leur origine dans la vanité et la
 					suffisance : jactatio, défaut du fat qui se donne de grands airs, qui fait
 					étalage de ses avantages et de ses mérites, qui les fait ressortir par ses
@@ -7725,13 +7363,12 @@
 			<entry>
 				<form type="lemma">Jactura</form>
 				<pc>, v.</pc>
-				<entry>Mittere et Dam¬ Jaculum</entry>
+				<entry>Mittere et Damnum</entry>
+			</entry>
+			<entry>
+				<form type="lemma">Jaculum</form>
 				<pc>, v.</pc>
 				<form type="variant">Missile</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">num</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -7845,14 +7482,17 @@
 			<entry>
 				<form type="lemma">Illustris</form>
 				<pc>, v.</pc>
-				<form type="variant">Celeber et</form>
-				<entry>Lucu¬ le Imago. Simulacrum. Statua. Signum. 1. Imago et simu¬ lacrum, termes
-					généraux, représentation d'un objet par la première oeuvre venue de sculpture ou
-					de peinture : l'imago se rattache à l'original, comme la copie au modèle, par
-					une ressemblance frappante, είκών; le simulacrum s'oppose à l'original, à l'être
-					véritable, c'est une imitation qui fait illusion, είδωλον. Statua, signum et
-					effigies sont exclusivement des ouvrages de sculpture ; tabula et pictura,
-					exclusivement des tableaux</entry>
+				<form type="variant">Celeber et Lucu¬ lentus</form>
+			</entry>
+			<entry>
+				<form type="lemma">Imago. Simulacrum. Statua. Signum. </form>
+				<pc>1.</pc>
+				<entry>Imago et simu¬ lacrum, termes généraux, représentation d'un objet par la
+					première oeuvre venue de sculpture ou de peinture : l'imago se rattache à
+					l'original, comme la copie au modèle, par une ressemblance frappante, είκών; le
+					simulacrum s'oppose à l'original, à l'être véritable, c'est une imitation qui
+					fait illusion, είδωλον. Statua, signum et effigies sont exclusivement des
+					ouvrages de sculpture ; tabula et pictura, exclusivement des tableaux</entry>
 				<pc>. 2.</pc>
 				<entry>Simulacrum et statua s'entendent de la reproduction complète d'une forme
 					donnée, comme les statues en pied de la sculpture; effigies et imago marquent
@@ -7889,7 +7529,8 @@
 				<form type="variant">Pluvia</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">Valid</form>
+			<dictScrap>
+				<form type="variant">Valid</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Infirmus, Infirmitas</form>
@@ -8072,24 +7713,13 @@
 					l'a¬ chèvement ou à l'accomplissement de l'action, c'est-à- dire à perficere,
 					consummare, peragere, absolvere, etc. Cic. Off. I, 37. Ut incipiendi ratio
 					fuerit, ita sit desinendi mo¬ dus. Sachez entrer en matière, sachez aussi vous
-					arrêter</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Varron. R. R</form>
-				<pc>.</pc>
-				<sense>III, 16. Apes cum evolaturae sunt, aut etiam inceperunt, consonant
-					vehementer. Lorsque les abeilles vont s'envoler ou qu'elles viennent de partir,
-					elles font entendre un fort bourdonnement. Cic. Finn. IV, 6. Hoc inchoati
-					cujusdam officii est, non perfecti. Ceci n'est en¬ core qu'une ébauche et non
-					point une oeuvre achevée</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Fr. ap</form>
-				<pc>. Non.</pc>
-				<entry>Perge, quaeso, nec enim imperite exor¬ sus es. Continuez, je vous prie, votre
-					début n'est point maladroit</entry>
+					arrêter. Varron. R. R. III, 16. Apes cum evolaturae sunt, aut etiam inceperunt,
+					consonant vehementer. Lorsque les abeilles vont s'envoler ou qu'elles viennent
+					de partir, elles font entendre un fort bourdonnement. Cic. Finn. IV, 6. Hoc
+					inchoati cujusdam officii est, non perfecti. Ceci n'est en¬ core qu'une ébauche
+					et non point une oeuvre achevée. Cic. Fr. ap. Non. Perge, quaeso, nec enim
+					imperite exor¬ sus es. Continuez, je vous prie, votre début n'est point
+					maladroit</sense>
 				<pc>. 2.</pc>
 				<entry>Caepi a le même opposé qu'incipere. Sen. Cons. Polyb. 20. Quicquid caepit et
 					desinit; mais caepi appelle plus fortement l'attention sur l'action qui
@@ -8273,8 +7903,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Ingenium. Natura</form>
-				<pc>. Indoles.</pc>
+				<form type="lemma">Ingenium. Natura. Indoles.</form>
 				<entry>Ingenium et natura, le na¬ turel considéré comme la base inébranlable de
 					l'indivi¬ dualité humaine et comme rebelle à toute altération : in¬ genium se
 					rapporte de préférence aux dons de l'esprit, natura à ceux,du coeur. Indoles, le
@@ -8490,8 +8119,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Intercapedo. Interruptio. Interpellatio</form>
-				<pc>. Interlocutio.</pc>
+				<form type="lemma">Intercapedo. Interruptio. Interpellatio. Interlocutio.</form>
 				<entry>Intercapedo et interruptio, interruption d'une action, d'une affaire :
 					l'intercapedo est polie, souvent même bien¬ veillante ; l'interruptio est
 					violente, elle trouble. Interpel¬ latio et interlocutio, interruption d'un
@@ -8519,8 +8147,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Interea</form>
-				<pc>. Interim.</pc>
+				<form type="lemma">Interea. Interim.</form>
 				<entry>Interea se rapporte à une action du¬ rable qui tombe dans une période, comme
 					cependant; interim à une action momentanée, comme là-dessus. Il y a entre eux la
 					même corrélation qu'entre un temps passé et l'aoriste, entre un instant et une
@@ -8824,8 +8451,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Iter. Meatus. Via. Trames. Semita</form>
-				<pc>. Callis.</pc>
+				<form type="lemma">Iter. Meatus. Via. Trames. Semita. Callis.</form>
 				<entry>Iter et meatus expriment, au sens abstrait, le chemin qu'on fait, la marche,
 					le voyage : iter, le chemin que fait un être raisonnable; meatus, celui que fait
 					un être sans raison et sans volonté; mais via, c'est le chemin sur lequel on
@@ -8929,8 +8555,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Jusjurandum. Juramentum</form>
-				<pc>. Sacramentum.</pc>
+				<form type="lemma">Jusjurandum. Juramentum. Sacramentum.</form>
 				<entry>Jusjurandum et juramentum, qui est d'une époque postérieure, serment civil
 					par lequel on confirme ou promet quelque chose; sacramentum, serment militaire
 					par lequel le soldat s'en¬ gage et se lie au drapeau. Liv. XXII, 38. Milites
@@ -8966,7 +8591,8 @@
 					la plupart du temps avec une teinte de blâme, par opposition à la maturité de
 					l'âge.</entry>
 			</entry>
-			<dictScrap><form type="variant">L</form>
+			<dictScrap>
+				<form type="variant">L</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Labare. Titubare. Vacillare. Nutare</form>
@@ -9090,8 +8716,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Laedere. Violare</form>
-				<pc>. Offendere.</pc>
+				<form type="lemma">Laedere. Violare. Offendere.</form>
 				<entry>Laedere, endommager, blesser, exprime une atteinte physique; violare, faire
 					violence, une atteinte au droit; offendere, choquer, offen¬ ser, une atteinte au
 					sentiment. Laedere se rapporte à un objet auquel il y a quelque chose à gâter;
@@ -9306,10 +8931,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Lepidus. Facetus. Festivus. Salsus. Dicax</form>
-				<pc>.</pc>
-				<sense>CavillA¬</sense>
-				<pc>tor.</pc>
+				<form type="lemma">Lepidus. Facetus. Festivus. Salsus. Dicax. Cavillator</form>
 				<entry>Lepos, facetiae et festivitas expriment un genre d'es¬ prit inoffensif, la
 					bonne humeur opposée à la gravité et propre à une âme bienveillante : lepos,
 					l'esprit dispos et léger par opposition à la pesanteur; festivitas, la gaieté
@@ -9370,12 +8992,7 @@
 					libertinus, par rapport à sa condition et par opposition à civis et inge¬ nuus.
 					Sen. Contr. III, 21. Quaerendus mihi gener erat li¬ bertinus; quid ergo? alieno
 					potius liberto? J'étais réduit à chercher un gendre dans la classe des
-					affranchis. Eh bien, pourquoi pas le mien, plutôt que celui d'un autre?</sense>
-			</entry>
-			<entry>
-				<form type="lemma">Cic. Verr. 1</form>
-				<pc>, 47.</pc>
-				<entry>Trebonius fecit heredem libertum suum... Equiti Romano libertinus homo fit
+					affranchis. Eh bien, pourquoi pas le mien, plutôt que celui d'un autre? Cic. Verr. 1, 47. Trebonius fecit heredem libertum suum... Equiti Romano libertinus homo fit
 					heres. Trébonius prit son affranchi pour héritier. Un homme de la classe des
 					affranchis devient héritier d'un chevalier romain. Tac. Ann. XIII, 27. Si
 					separarentur libertini, manifestam fore penuriam ingenuorum. On n'avait qu'à
@@ -9622,8 +9239,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Lucrum. Emolumentum. Quaestus</form>
-				<pc>. Compendium.</pc>
+				<form type="lemma">Lucrum. Emolumentum. Quaestus. Compendium.</form>
 				<entry>Lucrum et emolumentum, gain dans toutes les circonstances de la vie : lucrum,
 					gain qu'on doit à ses propres efforts, par op¬ position à damnum, κέρδος;
 					emolumentum, avantage qui échoit à quelqu'un, par opposition à detrimentum,
@@ -9752,8 +9368,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Lumen</form>
-				<pc>. Lux.</pc>
+				<form type="lemma">Lumen. Lux.</form>
 				<entry>Lumen, le corps lumineux qui éclaire, φέγγος; lux, la lumière émise, φάος.
 					Cic. Finn. III, 14, 45. Ut obscuratur et offunditur luce solis lumen lucernaee.
 					De même que la simple lumière du soleil fait pâlir et pres¬ que évanouir la
@@ -9939,19 +9554,13 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Malefactum</form>
-				<pc>, Maleficium,</pc>
-				<form type="variant">v</form>
-			</entry>
-			<pc>.</pc>
-			<dictScrap><form type="variant">Delictu</form>
-			</dictScrap>
-			<entry>
-				<form type="variant">Malitia</form>
+				<form type="lemma">Malefactum , Maleficium,</form>
+				<pc>, v.</form>
+				<form type="variant">Delictum</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Malignitas. Malevolentia. Malus. Nequam. Pravus</form>
+				<form type="lemma">Malitia. Malignitas. Malevolentia. Malus. Nequam. Pravus</form>
 				<pc>. 1.</pc>
 				<entry>Malitia, la méchanceté qui aime à mentir et à tromper parce qu'elle est
 					devenue insensible aux aver¬ tissements de la conscience; malignitas, la
@@ -10006,8 +9615,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Mane. Crepusculo</form>
-				<pc>. Diluculo.</pc>
+				<form type="lemma">Mane. Crepusculo. Diluculo.</form>
 				<entry>Mane, le matin, 5ρ699; il s'entend des premiers pas que le jour fait dans sa
 					carrière, par opposition, d'une part, à la nuit, de l'autre, aux heures de la
 					journée qui précèdent midi; crepusculo, 3ρι, le ma¬ tin, au crépuscule, par
@@ -10177,8 +9785,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Medius. Modicus</form>
-				<pc>. Mediocris.</pc>
+				<form type="lemma">Medius. Modicus. Mediocris.</form>
 				<entry>Medius est toujours adjec¬ tif de lieu, au milieu, entre deux, par opposition
 					aux points extrêmes; modicus est un adjectif de quantité qui se rapporte au
 					nombre et à la grandeur, comme modéré, par opposition à toute sorte d'excès;
@@ -10326,12 +9933,7 @@
 				<pc>. 2.</pc>
 				<entry>Merere est habituellement transitif, il se joint à un accusatif ou à une
 					proposition explicative; mereri est in¬ transitif, et se joint à une expression
-					adverbiale. Cic. Rosc.</entry>
-			</entry>
-			<entry>
-				<form type="lemma">Com</form>
-				<pc>. 15.</pc>
-				<entry>Fructum quem meruerunt retribuam. Je leur payerai le tribut d'éloges qu'ils
+					adverbiale. Cic. Rosc. Com. 15. Fructum quem meruerunt retribuam. Je leur payerai le tribut d'éloges qu'ils
 					ont mérité. Comparez avec Catil. II, 2, 4. Si illum ut erat (sous-entendu : de
 					me) meritus morte mulctassem. Si je lui avais infligé la peine de mort comme je
 					le lui devais</entry>
@@ -10429,8 +10031,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Missile. Hasta. Lancea. Jaculum. Verutum. Tragulum</form>
-				<pc>. Pilum.</pc>
+				<form type="lemma">Missile. Hasta. Lancea. Jaculum. Verutum. Tragulum. Pilum.</form>
 				<entry>Missile, terme général pour toute espèce d'arme qui sert à combattre de loin,
 					trait ou flèche; hasta et lan¬ cea, armes de main et de jet, la pique : hasta,
 					l'arme na¬ tionale des Romains, δόρν; lancea, arme étrangère attribuée aux
@@ -10477,7 +10078,8 @@
 				<form type="variant">Medius</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">d</form>
+			<dictScrap>
+				<form type="variant">d</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">MODO</form>
@@ -10584,8 +10186,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Mons</form>
-				<pc>. Jugum.</pc>
+				<form type="lemma">Mons. Jugum.</form>
 				<entry>Mons, la montagne, par rapport à sa di¬ mension en hauteur, όρος; jugum, par
 					rapport à ses dimen¬ sions en largeur et en longueur. Jugum a deux sens. Il se
 					dit de la courbe supérieure de la montagne, courbe qui prend encore les noms
@@ -10724,13 +10325,7 @@
 					une pièce de terre pour en marquer les limites et pour la protéger contre les
 					voleurs, la clôture d'un jardin, d'un vignoble, θριγκός. Virg. AEn. VI, 549.
 					Moenia lata videt triplici circumdata muro. Il voit une vaste enceinte entourée
-					d'un triple mur</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Tac. Ann. XV</form>
-				<pc>, 43.</pc>
-				<entry>Nero instituit, ut urbis domus non communione parietum sed propriis quaeque
+					d'un triple mur. Tac. Ann. XV, 43. >Nero instituit, ut urbis domus non communione parietum sed propriis quaeque
 					muris ambi¬ rentur. Néron décida que les maisons de Rome n'auraient plus de murs
 					mitoyens, que chacune aurait les siens</entry>
 				<pc>. 2.</pc>
@@ -10802,7 +10397,8 @@
 				<form type="variant">Arcana</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">N</form>
+			<dictScrap>
+				<form type="variant">N</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Nancisci</form>
@@ -11066,8 +10662,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Nonnunquam. Interdum</form>
-				<pc>. Aliquando.</pc>
+				<form type="lemma">Nonnunquam. Interdum. Aliquando.</form>
 				<entry>Nonnunquam, de temps à autre, opposé à nunquam et semper, se rapproche de
 					l'idée exprimée par saepius, comme ἐσθ' δτε; interdum, parfois, opposé à crebro,
 					se rapproche de l'idée exprimée par rarius, comme ἐνίοτε; enfin, aliquando,
@@ -11181,7 +10776,8 @@
 				<form type="variant">Alere</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">Ο</form>
+			<dictScrap>
+				<form type="variant">Ο</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Obambulare</form>
@@ -11398,13 +10994,7 @@
 					positif, comme la haine, μῖσος, c'est un sentiment profondément enraciné qui
 					s'oppose à amor. Vinvidia est le commencement de l'odii. V'invidia ne s'attache
 					qu'aux personnes; V'odium s'attache aux personnes et aux choses. Tac. Ann. II,
-					56</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Armenii</form>
-				<pc>...</pc>
-				<entry>saepius discordes sunt, adversus Romanos odio et in Parthum invidia. Les
+					56. Armenii ... saepius discordes sunt, adversus Romanos odio et in Parthum invidia. Les
 					Arméniens sont très-souvent partagés entre leur haine pour les Romains et leur
 					mal¬ veillance pour les Parthes. XIII, 15. Nero intellecta invi¬ dia odium
 					intendit. Ces symptômes de malveillance que Néron discerna portèrent sa haine au
@@ -11539,13 +11129,7 @@
 					discours, au conseil, comme ἐργασία ; labor, activité pleine d'efforts et suivie
 					de fatigue, le travail, par opposition au plaisir, comme πόνος. Plaut. Aul. II,
 					3, 7. Opera huc est conducta vestra, non oratio. On a loué vos bras, non votre
-					langue</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Cic. Rep. I</form>
-				<pc>,9.</pc>
-				<entry>Otiosiorem opera quam animo. Plutôt désoeu¬ vré que libre d'esprit. Liv.
+					langue. Cic. Rep. I, 9. Otiosiorem opera quam animo. Plutôt désoeu¬ vré que libre d'esprit. Liv.
 					XXII, 22. Ut opera quoque im¬ pensa consilium adjuvem meum. Pour mettre la main
 					à l'exécution de mon dessein. Mais V, 4. Labor voluptasque dissimillima natura,
 					societate quadam naturali inter se sunt conjuncta. Le travail et le plaisir dont
@@ -11816,7 +11400,8 @@
 					extérieures et concordia à la situation intérieure</sense>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">P</form>
+			<dictScrap>
+				<form type="variant">P</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Paedor</form>
@@ -11825,8 +11410,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Paene. Prope. Fere</form>
-				<pc>. Ferme.</pc>
+				<form type="lemma">Paene. Prope. Fere. Ferme.</form>
 				<entry>Paene et prope servent à adoucir une expression trop forte et à faire passer
 					une hyperbole : paene, qui est opposé à plane, se traduit par presque ; prope,
 					par peu s'en faut que. Fere et ferme ne servent qu'à se précautionner contre la
@@ -11895,8 +11479,7 @@
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">Parere. Obedire. Dicto audientem esse. Obsequi. Obse¬ cundare.
-					Morigerari</form>
-				<pc>. Obtemperare.</pc>
+					Morigerari. Obtemperare.</form>
 				<entry>Parere, obedire et dicto audientem esse présentent l'obéissance comme une
 					obligation, un devoir, une sujétion : parere, avec une idée d'humilité,
 					l'obéissance du serviteur à son maître, du su¬ jet à son prince, par opposition
@@ -12041,8 +11624,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Paulatim. Sensim. Gradatim</form>
-				<pc>. Pedetentim.</pc>
+				<form type="lemma">Paulatim. Sensim. Gradatim. Pedetentim.</form>
 				<entry>Paulatim et sensim présentent la gradation sous l'image d'un progrès qui
 					passe inaperçu : paulatim, comme peu à peu, par op¬ position à semel d'une seule
 					fois; mais sensim comme in¬ sensiblement, par opposition à repente, toup à coup;
@@ -12059,8 +11641,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Paupertas. Inopia. Egestas</form>
-				<pc>. Mendicitas.</pc>
+				<form type="lemma">Paupertas. Inopia. Egestas. Mendicitas.</form>
 				<entry>Paupertas, modicité de ressources qui oblige à se restreindre, par opposition
 					à dives, comme πενία; inopia et égestas, pau¬ vreté accablante qui impose des
 					souffrances et des priva¬ tions : mais inopia exprime comme ἀπορί« le dénûment
@@ -12156,11 +11737,10 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Pellegere, PelLicere</form>
+				<form type="lemma">Pellegere, pellicere</form>
 				<pc>, v.</pc>
-				<form type="variant">Per¬</form>
+				<form type="variant">Perlucidus</form>
 			</entry>
-			<pc>lucid</pc>
 			<entry>
 				<form type="lemma">Pellucidus</form>
 				<pc>, v.</pc>
@@ -12234,8 +11814,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Perdere. Pessundare. Pervertere</form>
-				<pc>. Evertere.</pc>
+				<form type="lemma">Perdere. Pessundare. Pervertere. Evertere.</form>
 				<entry>Perdere et pessundare, anéantir : perdere, en brisant l'objet, par
 					destruction ; pessundare, par submersion ou par quelque autre manière de faire
 					disparaître l'objet. Evertere, per¬ vertere et subvertere, renverser : evertere,
@@ -12536,7 +12115,8 @@
 				<form type="variant">Saxum</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">1</form>
+			<dictScrap>
+				<form type="variant">1</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Petulans. Procax. Protervus. Lascivus</form>
@@ -12894,17 +12474,11 @@
 					intérieure, indépendante du con¬ cours et de la bonne volonté d'autrui.
 					Potentia, pouvoir de fait qui se fait sentir à yolonté, δύναμις; potentatus,
 					rang du souverain reconnu par le peuple, δuναστεία; potestas, autorité légitime
-					et légalement déférée, ἐξουσία. Tac. Ann</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">XIII</form>
-				<pc>, 49.</pc>
-				<entry>Nihil tam fluxum est quam fama potentiae non sua vi nixae. Rien de si fragile
+					et légalement déférée, ἐξουσία. Tac. Ann. XIII, 49. Nihil tam fluxum est quam fama potentiae non sua vi nixae. Rien de si fragile
 					que le crédit d'un pouvoir qui n'a point en lui-même les éléments de sa force.
 					Vis, la force active et agressive, comme faculté de contraindre les autres,
 					κράτος; robur, la force au repos, comme faculté de résister et de durer,
-					δώμn</entry>
+					δώμn</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13096,16 +12670,11 @@
 					longtemps dans la tombe, c'est un parfait. Cic. Cat. I, 1. Ad mortem te duci jam
 					pridem oportebat ; in te conferri pestem illam quam tu in nos omnes jam diu
 					machinaris. Il y a longtemps que j'aurais dû te faire conduire au supplice et
-					amasser sur ta tête tous les maux que tu nous prépares dépuis longtemps</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Tac. Ann. XV</form>
-				<pc>, 64.</pc>
-				<entry>Seneca Statium Annaeum diu sibi ami¬ citiae fide et arte medicinae probatum
-					orat, provisum pri¬ dem venenum promeret. Sénèque prie Statius Annaeus, qui
-					avait depuis longtemps sa confiance comme ami et comme médecin, de lui apporter
-					le poison dont ils étaient autrefois convenus</entry>
+					amasser sur ta tête tous les maux que tu nous prépares dépuis longtemps. Tac.
+					Ann. XV, 64. Seneca Statium Annaeum diu sibi ami¬ citiae fide et arte medicinae
+					probatum orat, provisum pri¬ dem venenum promeret. Sénèque prie Statius Annaeus,
+					qui avait depuis longtemps sa confiance comme ami et comme médecin, de lui
+					apporter le poison dont ils étaient autrefois convenus</entry>
 				<pc>. 2.</pc>
 				<entry>Diuturnus se dit d'une longue durée, soit indiffé¬ remment, comme de quelque
 					chose de long, en général, soit par éloge, comme de quelque chose de durable et
@@ -13448,7 +13017,8 @@
 				<entry>, PudibUnduS, PudiCuS, v</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="lemma">Cast</form>
+			<dictScrap>
+				<form type="lemma">Cast</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Puer. Infans. Adolescens. Juvenis. Vir. Vetus. Senex</form>
@@ -13619,7 +13189,8 @@
 				<form type="variant">Purus</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">Q</form>
+			<dictScrap>
+				<form type="variant">Q</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Quaerere. Scrutari. Rimari. Investigare. Indagare</form>
@@ -13670,8 +13241,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Questus. Quiritatio. Querimonia</form>
-				<pc>. Querela.</pc>
+				<form type="lemma">Questus. Quiritatio. Querimonia. Querela.</form>
 				<entry>Questus et quiritatio, expression de la douleur : questus, par des gé¬
 					missements rares; quiritatio, par des gémissements sui¬ vis. Querimonia et
 					querela, expressions du chagrin : la querimonia part d'un sentiment estimable,
@@ -13763,7 +13333,8 @@
 					courtes tous les jours ou plutôt de jour en jour</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">R</form>
+			<dictScrap>
+				<form type="variant">R</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Rabies</form>
@@ -14000,8 +13571,7 @@
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">Repente. Subito. Extemplo. E vestigio. Illico. Sta¬ tim.
-					Protinus. Confestim</form>
-				<pc>. Continuo.</pc>
+					Protinus. Confestim Continuo.</form>
 				<entry>Repente et subito, tout à coup : repens, par opposition à l'attente, à
 					exspec¬ tatus, à sensim, comme ἐξαπίνης ; subitus, par opposition à des
 					préparatifs, à ante provisus, meditatus, paratus, comme παραχρῆμα. Extemplo et e
@@ -14152,8 +13722,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Rete. Cassis</form>
-				<pc>. Plaga.</pc>
+				<form type="lemma">Rete. Cassis. Plaga.</form>
 				<entry>Retia, rets, terme général pour les filets de pêche et de chasse; casses et
 					plagae, engins réservés à la chasse : casses, filets destinés à s'emparer du
 					petit gibier qui y entre comme dans un sac; plagae, à s'em¬ parer du gros gibier
@@ -14164,8 +13733,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Reverti. Revenire</form>
-				<pc>. Redire.</pc>
+				<form type="lemma">Reverti. Revenire. Redire.</form>
 				<entry>Reverti et revenire, pris au propre, marquent des actions qui ne durent qu'un
 					moment : reverti, opposé à proficisci, celle qui consiste à se retourner pour
 					revenir sur ses pas; revenire, opposé à advenire, celle qui consiste à rattraper
@@ -14425,7 +13993,8 @@
 					municipes, en qualité de rustico¬ rum similes</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">S</form>
+			<dictScrap>
+				<form type="variant">S</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Sabulo. Harena. Sabura</form>
@@ -14566,8 +14135,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Salvus. Sospes. Incolumis</form>
-				<pc>. Integer.</pc>
+				<form type="lemma">Salvus. Sospes. Incolumis. Integer.</form>
 				<entry>Salvus et sospes, σῶς, conservé et sauvé, par opposition à perdu : salvus, en
 					langage ordinaire; sospes, dans le style élevé. Incolu¬ mis et integer, ἀσκηθής,
 					sain et sauf, entier, intact : incolu¬ mis, par opposition à une blessure, etc.
@@ -14647,14 +14215,9 @@
 				<pc>. 1.</pc>
 				<entry>Sapor, la saveur propre et particulière à un corps, par opposition à odor,
 					etc. ; gustus ou gustatus, la perception de cette sa¬ veur ou le sens du goût,
-					par opposition à olfactus, etc</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Sen. Ep</form>
-				<pc>. 109.</pc>
-				<entry>Debet esse aptatus ad hujus modi gustum, ut ille tali sapore capiatur. Il
-					faut être accoutumé au goût du miel pour en apprécier la saveur</entry>
+					par opposition à olfactus, etc. Sen. Ep. 109.Debet esse aptatus ad hujus modi
+					gustum, ut ille tali sapore capiatur. Il faut être accoutumé au goût du miel
+					pour en apprécier la saveur</entry>
 				<pc>. 2.</pc>
 				<entry>Le libans ne fait que porter les choses aux lèvres ou à la bouche; le gustans
 					en perçoit la saveur et en distin¬ gue le goût. Ovid. Am. I, 4, 34. Si tibi
@@ -14877,8 +14440,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Scutum. Clypeus</form>
-				<pc>. Parma.</pc>
+				<form type="lemma">Scutum. Clypeus. Parma.</form>
 				<entry>Scutum, grand bouclier qui couvre l'homme entier, σάκος; clypeus et parma,
 					bouclier de grandeur moyenne et de forme ronde, ἀσπίς : clypeus, pour
 					l'infanterie; parma, pour l'infanterie et la cavalerie ; enfin, pelta, petit
@@ -14921,8 +14483,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Sedes. Sedile</form>
-				<pc>. Sella.</pc>
+				<form type="lemma">Sedes. Sedile. Sella.</form>
 				<entry>Sedes, siège offert par la nature, ἐδος; sedile et sella, meuble fait pour
 					s'asseoir : sedile, quelle que soit la forme, chaise ou banc, mobile ou à de¬
 					meure, ἐδρα; sella, de forme déterminée, chaise ou fau¬ teuil, θρόνος</entry>
@@ -15048,23 +14609,20 @@
 				<sense>Severus se prend au sens actif, on ne plaisante pas; serius a le sens neutre
 					et s'entend de ce qui ne saurait êtré un sujet de plaisanterie. Severe veut dire
 					gravement; serio, sérieusement. Severus se joint, comme épithète, à des noms de
-					personnes; serius, à des noms de</sense>
-				<form type="lemma">choses. Hor. A. P</form>
-				<pc>. 107.</pc>
-				<entry>Decent vultum severum seria dictu. Un rôle grave ne souffre que des propos
-					sérieux. Sen. Tranq. 15. Nihil magnum, nihil severum nec serium qui¬ dem ex
-					tanto apparatu putat. Tout compte fait, il ne reste à ses yeux rien de grand,
-					rien de grave ni même de sérieux sur ce vaste théâtre du monde. Scverus s'oppose
-					à hila¬ ris, à remissus, à luxuriosus; serius, à jucundus, jocosus, et serio, à
-					joco, per jocum. Tout cela n'empêche pas qu'on ne rencontre à la place de serius
-					le positif severus et surtout le comparatif severior, le superlatif
-					severissimus, le sub¬ stantif severitas, parce que la langue latine n'a point
-					tiré de serius des formes correspondantes</entry>
+					personnes; serius, à des noms de choses. Hor. A. P. 107. Decent vultum severum
+					seria dictu. Un rôle grave ne souffre que des propos sérieux. Sen. Tranq. 15.
+					Nihil magnum, nihil severum nec serium qui¬ dem ex tanto apparatu putat. Tout
+					compte fait, il ne reste à ses yeux rien de grand, rien de grave ni même de
+					sérieux sur ce vaste théâtre du monde. Scverus s'oppose à hila¬ ris, à remissus,
+					à luxuriosus; serius, à jucundus, jocosus, et serio, à joco, per jocum. Tout
+					cela n'empêche pas qu'on ne rencontre à la place de serius le positif severus et
+					surtout le comparatif severior, le superlatif severissimus, le sub¬ stantif
+					severitas, parce que la langue latine n'a point tiré de serius des formes
+					correspondantes</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Sermo. Colloquium</form>
-				<pc>. Oratio.</pc>
+				<form type="lemma">Sermo. Colloquium. Oratio.</form>
 				<entry>Sermo, conversation qui a lieu par hasard ou du moins sans but déterminé et
 					sé¬ rieux; colloquium, entretien prémédité qui roule sur un point
 					convenu</entry>
@@ -15654,7 +15212,8 @@
 				<form type="variant">Conditio</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">te</form>
+			<dictScrap>
+				<form type="variant">te</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Stella. Astrum. Sidus</form>
@@ -15742,7 +15301,6 @@
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">3</form>
-				<pc>» 3.</pc>
 				<entry>Gens, famille politique; genus, famille naturelle. La gens se compose de
 					familles que le fondateur de l'État a réunies en communauté ou en association;
 					le genus, d'es¬ pèces et d'individus qui, en vertu de leurs caractères communs,
@@ -15995,9 +15553,8 @@
 			<entry>
 				<form type="lemma">Supplementum</form>
 				<pc>, v.</pc>
-				<form type="variant">Complemen¬</form>
+				<form type="variant">Complementum</form>
 			</entry>
-			<pc>-</pc>
 			<entry>
 				<form type="lemma">Supplicare</form>
 				<pc>, v.</pc>
@@ -16058,7 +15615,8 @@
 				<form type="variant">Ferre</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">T</form>
+			<dictScrap>
+				<form type="variant">T</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Taberna</form>
@@ -16224,8 +15782,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Tergus. Cutis. Pellis</form>
-				<pc>. Vellus.</pc>
+				<form type="lemma">Tergus. Cutis. Pellis. Vellus.</form>
 				<entry>Tergus et cutis, cou¬ verture extérieure des chairs à l'état de membrane nue
 					et lisse : tergus, peau grossière des animaux recouvrant une chair tendre et
 					bonne à manger, le cuir δέρμα ; cutis, peau fine de l'homme protégeant la chair
@@ -16253,8 +15810,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Teter. Foedus. Turris</form>
-				<pc>. Deformis.</pc>
+				<form type="lemma">Teter. Foedus. Turris. Deformis.</form>
 				<entry>Teter, taeter, ce qui nous paraît odieux parce qu'il trouble notre sécurité
 					en nous inspirant de la crainte ou en nous donnant des fris¬ sons, à peu près
 					comme effroyable, épouvantable, βλοσυ¬ ρôς; faedus, parce qu'il offense la
@@ -16340,8 +15896,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Toxicum. Venenum</form>
-				<pc>. Virus.</pc>
+				<form type="lemma">Toxicum. Venenum. Virus.</form>
 				<entry>Toxicum, terme d'histoire naturelle, poison, sans idée accessoiré; venenum,
 					liqueur ou potion empoisonnée qui peut être douce et séduisante; virus, liqueur
 					ou breuvage malfaisant et repoussant. Liv. 11, 52. Tribuni plebem agitare suo
@@ -16361,9 +15916,10 @@
 					traverses supportées. Caes. B. C. II, 9. Supraeum locum duo tigna transversa
 					injecerunt, quibus suspenderent eam contignationem, supraque ea tigna di¬ recto
 					transversas trabes injecerunt, éasque axibus religa¬ verunt. Ils jetèrent
-					par-dessus deux poutres 1 qui se croisaient à angle droit et qui devaient
-					supporter la plate¬ forme, sur les poutres un grillage de poutrelles 2 reliées
-					par des ais 3</sense>
+					par-dessus deux poutres <note> Sablières</note> qui se croisaient à angle droit
+					et qui devaient supporter la plate¬ forme, sur les poutres un grillage de
+					poutrelles <note>Longrines et traverses</note> reliées par des ais
+						<note>Voliges</note></sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -16391,8 +15947,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Trans. Uls</form>
-				<pc>. Ultra.</pc>
+				<form type="lemma">Trans. Uls . Ultra.</form>
 				<entry>Trans et uls, de l'autre côté, πέραν, par opposition à cis; ce sont des
 					prépositions qu'on n'accentue pas et qui servent simplement à distinguer un côté
 					de l'autre, elles appartiennent à la même classe que super : trans, est le terme
@@ -16400,23 +15955,14 @@
 					opposition à citra; on appuie sur le mot pour donner une haute idée de l'é¬
 					loignement de cet autre côté au delà duquel il faut cher¬ cher l'objet, c'est
 					une particule de la même classe que supra. La séparation exprimée par ultra fait
-					songer à une frontière, la séparation exprimée par trans à un obstacle</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<entry>1 Sablières. -2 Longrines et traverses</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">-» Voliges. Tac. Germ</form>
-				<pc>. 29.</pc>
-				<entry>Protulit magnitudo populi Romani ultra Rhenum ultraque veteres terminos
-					imperii reverentiam... Non numeraverim inter Germaniae populos, quamquam trans
-					Rhenum Danubiumque consederint, éeos qui decu¬ mates agros exercent. La grandeur
-					du peuple romain a porté au delà du Rhin et au delà des vieilles bornes le
-					respect de son autorité... Je ne compte point parmi les peuples de la Germanie,
-					quoiqu'établis de l'autre côté du Rhin et du Danube, ceux qui cultivent les
-					champs sou¬ mis à la dîme</entry>
+					songer à une frontière, la séparation exprimée par trans à un obstacle. Tac.
+					Germ. 29. Protulit magnitudo populi Romani ultra Rhenum ultraque veteres
+					terminos imperii reverentiam... Non numeraverim inter Germaniae populos,
+					quamquam trans Rhenum Danubiumque consederint, éeos qui decu¬ mates agros
+					exercent. La grandeur du peuple romain a porté au delà du Rhin et au delà des
+					vieilles bornes le respect de son autorité... Je ne compte point parmi les
+					peuples de la Germanie, quoiqu'établis de l'autre côté du Rhin et du Danube,
+					ceux qui cultivent les champs sou¬ mis à la dîme</entry>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -16598,7 +16144,8 @@
 					d'assurance</entry>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">U</form>
+			<dictScrap>
+				<form type="variant">U</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Uber</form>
@@ -16731,7 +16278,7 @@
 			<entry>
 				<form type="lemma">Universus, Unusquisque</form>
 				<pc>, v.</pc>
-				<form type="variant">Quis</form>
+				<form type="variant">Quisque</form>
 			</entry>
 			<pc>-</pc>
 			<entry>
@@ -16759,23 +16306,18 @@
 					deux unités, comme ἐκάτερος; ambo, tous les deux, à un tout dans lequel on
 					distingue deux moitiés, comme ἀμφω. Cic. Finn. II, 7. Hic, qui utramque probat,
 					ambobus debuit uti. Puisqu'on admet les deux points de fait, on de¬ vrait les
-					représenter tous les deux par un terme spécial</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">Ter</form>
-				<pc>. Ad.</pc>
-				<entry>I, 2, 50. Curemus aequam uterque partem ; tu alterum, ego item alterum; nam
-					ambos curare propemo¬ dum reposcere illum est quem dedisti. Prenons chacun une
-					part égale de la tâche; garde Ctésiphon, moi Eschine. T'occuper ainsi de tous
-					les deux, c'est presque me rede¬ mander celui que tu m'as donné. La différence
-					de cons¬ truction est visible dans Cic. Muren. 18, 37. Duae res in praetura
-					desideratae sunt, quae ambae in consulatu Murenaee profuerunt... Horum utrumque
-					ei fortuna ad consulatus petitionem reservavit. Deux choses manquèrent à Muréna
-					dans la demande de la préture; et toutes deux l'ont mer¬ veilleusement servi
-					quand il a sollicité le consulat... La fortune lui réservait chacun de ces deux
-					avantages dans ses démarches pour le consulat. Et Orat. ΙII, 26. A quibus
-					utrisque submittitur aliquid. Le poëte et le compositeur sacrifient chacun à la
+					représenter tous les deux par un terme spécial. Ter. Ad. I, 2, 50. Curemus
+					aequam uterque partem ; tu alterum, ego item alterum; nam ambos curare propemo¬
+					dum reposcere illum est quem dedisti. Prenons chacun une part égale de la tâche;
+					garde Ctésiphon, moi Eschine. T'occuper ainsi de tous les deux, c'est presque me
+					rede¬ mander celui que tu m'as donné. La différence de cons¬ truction est
+					visible dans Cic. Muren. 18, 37. Duae res in praetura desideratae sunt, quae
+					ambae in consulatu Murenaee profuerunt... Horum utrumque ei fortuna ad
+					consulatus petitionem reservavit. Deux choses manquèrent à Muréna dans la
+					demande de la préture; et toutes deux l'ont mer¬ veilleusement servi quand il a
+					sollicité le consulat... La fortune lui réservait chacun de ces deux avantages
+					dans ses démarches pour le consulat. Et Orat. ΙII, 26. A quibus utrisque
+					submittitur aliquid. Le poëte et le compositeur sacrifient chacun à la
 					simplicité</entry>
 				<pc>. 2.</pc>
 				<entry>Uterque et ambo sont copulatifs et se décomposent en unus et alter;
@@ -16788,8 +16330,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Uti. Usurpare. Frui</form>
-				<pc>. Frunisci.</pc>
+				<form type="lemma">Uti. Usurpare. Frui. Frunisci.</form>
 				<entry>Uti et usurpare expri¬ ment l'action de faire usage d'une chose, d'en
 					disposer à son avantage; mais uti se dit d'un usage permanent; usur- pare, d'un
 					acte isolé. Frui et la vieille forme frunisci expriment le sentiment agréable
@@ -16828,7 +16369,8 @@
 				<form type="variant">Foemina</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap><form type="variant">V</form>
+			<dictScrap>
+				<form type="variant">V</form>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Vacare. Otiari. Feriari. Cessare</form>
@@ -17277,17 +16819,12 @@
 				<pc>. 4.</pc>
 				<entry>Timor présente la peur comme un état passager; timiditas présente la timidité
 					comme une qualité habi¬ tuelle qui se comporte, par rapport à l'ignavia, comme
-					le terme précis par rapport au terme général. Lactant</entry>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="lemma">III, 17. Epicurus</form>
-				<pc>...</pc>
-				<entry>ignavum prohibet accedere ad rem pu¬ blicam, pigrum exercere, timidum
-					militare. Epicure ôte aux gens incapables l'accès des affaires, aux gens pares¬
-					seux leur maniement, aux gens timides la guerre. V'igna¬ via est l'incapacité de
-					faire aucune action noble et parti¬ culièrement aucun exploit courageux; la
-					timiditas est excusable dans certaines circonstances; lignavia est tou¬ jours
+					le terme précis par rapport au terme général. Lactant. III, 17. Epicurus ...
+					ignavum prohibet accedere ad rem pu¬ blicam, pigrum exercere, timidum militare.
+					Epicure ôte aux gens incapables l'accès des affaires, aux gens pares¬ seux leur
+					maniement, aux gens timides la guerre. V'igna¬ via est l'incapacité de faire
+					aucune action noble et parti¬ culièrement aucun exploit courageux; la timiditas
+					est excusable dans certaines circonstances; lignavia est tou¬ jours
 					condamnable</entry>
 				<pc>. 5.</pc>
 				<entry>La crainte, metus, et la peur, timor, naissent de la réflexion qui distingue
@@ -17657,8 +17194,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Vincula. Catenae. Compedes. Pedicae</form>
-				<pc>. Manicae.</pc>
+				<form type="lemma">Vincula. Catenae. Compedes. Pedicae. Manicae.</form>
 				<entry>Vincula, toute sorte de liens, terme générique par rapport à catenae, comme
 					δεσμοί; catenae, chaînes, soit pour enchaîner, soit 1 Traduction Panckoucke.
 					pour d'autres usages, comme ἀλύσεις; compedes, fers en gé¬ néral pour les mains
@@ -17897,290 +17433,13 @@
 				<form type="variant">Facies</form>
 			</entry>
 			<pc>.</pc>
-			<dictScrap>MANUEL</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
 			<dictScrap>Affirmare, v. Dicere.</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
 			<dictScrap>c'est l'animal déraisonnable par contraste direct avec</dictScrap>
 			<dictScrap>jeunesse, par opposition à recens, comme γέρων, γεραιος,</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
 			<dictScrap>présenter, l'acciens engage, l'evocans ordonne. Cic. Att. V, 1.</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Demens, v. Amens. Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>byGoogle</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google 4</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
+			<dictScrap>Demens, v. Amens.</dictScrap>
 			<dictScrap>sailles épineuses qui font du sol un lieu sauvage.</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by! Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>y Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>132</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>iDigitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>8</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>9 Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by! Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>10 Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
 			<dictScrap>Sistere. Inhibere. Statuere. Sistere et inhibere, ren¬</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by! Google</dictScrap>
-			<dictScrap>12 Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
-			<dictScrap>Digitized by Google</dictScrap>
 		</body>
 	</text>
 </TEI>
