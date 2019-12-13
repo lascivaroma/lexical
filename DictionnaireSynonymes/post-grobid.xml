@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
 	<teiHeader>
 		<encodingDesc>
 			<appInfo>
@@ -1234,9 +1235,6 @@
 					comme ἀναφανδόν ; manifesto, manifestement, de manière à rendre superflues les
 					recherches, les conjec¬ tures, le secours et l'effort des sens et de l'esprit,
 					comme δνῆλον</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<pc>4.</pc>
 				<sense>Palam marque qu'on expose les choses à la vue ài public par effronterie;
 					propalam, par dessein prémédité</sense>
@@ -1722,9 +1720,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<pc>2.</pc>
-			</entry>
-			<entry>
 				<form type="lemma">Austerus. Severus. Difficilis. Morosus. Tetricus</form>
 				<pc>. 1.</pc>
 				<sense>Austerus présente la sévérité comme une tournure d'es¬ prit ; severus, comme
@@ -1969,9 +1964,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="variant">C</form>
-			</entry>
-			<entry>
 				<form type="lemma">Caballus</form>
 				<pc>, v.</pc>
 				<form type="variant">Equus</form>
@@ -2190,18 +2182,9 @@
 			<entry>
 				<form type="lemma">Carnifex</form>
 				<pc>,</pc>
-				<sense>v</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<form type="variant">Homicida</form>
 			</entry>
 			<pc>.</pc>
-			<entry>
-				<form type="lemma">Caro. Pulpa. Viscera. Exta. Intestina. Ilia</form>
-				<pc>. 1.</pc>
-				<sense>Caro, la chair en général, comme substance, par opposition à</sense>
-			</entry>
 			<entry>
 				<form type="lemma">Canna</form>
 				<pc>, v.</pc>
@@ -2239,9 +2222,12 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>la graisse, aux nerfs, aux muscles; pulpa, terme particu¬ lier pour la chair
-					qui se mange et qui a du goût, par op¬ position aux os; viscéra, toutes les
-					chairs et parties char¬ nues comprises entre la peau et les os</sense>
+				<form type="lemma">Caro. Pulpa. Viscera. Exta. Intestina. Ilia</form>
+				<pc>. 1.</pc>
+				<sense>Caro, la chair en général, comme substance, par opposition à la graisse, aux
+					nerfs, aux muscles; pulpa, terme particu¬ lier pour la chair qui se mange et qui
+					a du goût, par op¬ position aux os; viscéra, toutes les chairs et parties char¬
+					nues comprises entre la peau et les os</sense>
 				<pc>. 2.</pc>
 				<sense>Viscera, au sens restreint, désigne toutes les parties internes du corps;
 					exta, les parties molles de la poitrine, comme le coeur, les poumons; intestina,
@@ -2788,9 +2774,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="variant">4</form>
-			</entry>
-			<entry>
 				<form type="lemma">Collis. Clivus. Tumulus. Grumus</form>
 				<pc>.</pc>
 				<sense>Collis et clivus, grande colline qui est une petite montagne : collis,
@@ -2965,14 +2948,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Concessum est. Licet</form>
-				<pc>.</pc>
-				<sense>Fas est. Concessum est, ἐξεστι, ce qui est permis en général; ce terme est
-					dans le rap¬ port du genre à l'espèce avec licet, licitum est, ce qui est permis
-					aux yeux des hommes en vertu de maximes con¬ sacrées soit par des lois
-					positives, soit par les moeurs et la</sense>
-			</entry>
-			<entry>
 				<form type="lemma">Compar</form>
 				<pc>, v.</pc>
 				<form type="variant">AEquus</form>
@@ -2991,9 +2966,14 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>coutume, comme θέμις ἐστί, et avec fas est, ce qui est per¬ mis aux yeux des
-					dieux en vertu de maximes révélées soit par la religion, soit par le sentiment
-					moral, comme δσιόν ἐσtι</sense>
+				<form type="lemma">Concessum est. Licet</form>
+				<pc>.</pc>
+				<sense>Fas est. Concessum est, ἐξεστι, ce qui est permis en général; ce terme est
+					dans le rap¬ port du genre à l'espèce avec licet, licitum est, ce qui est permis
+					aux yeux des hommes en vertu de maximes con¬ sacrées soit par des lois
+					positives, soit par les moeurs et la coutume, comme θέμις ἐστί, et avec fas est,
+					ce qui est per¬ mis aux yeux des dieux en vertu de maximes révélées soit par la
+					religion, soit par le sentiment moral, comme δσιόν ἐσtι</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -3717,7 +3697,7 @@
 				<form type="lemma">Cunae. Cunabula</form>
 				<pc>.</pc>
 				<sense>Cunae, le berceau même; incunabula, la literie et les autres accessoires du
-					berceau. Plaut. Truc. V, 13 1. Fasciis opus est, pulvinis, cunis, incunabu¬ lis.
+					berceau. Plaut. Truc. V, 13. Fasciis opus est, pulvinis, cunis, incunabu¬ lis.
 					Il faut des bandes, des coussins, un berceau, de la literie et du linge</sense>
 			</entry>
 			<pc>.</pc>
@@ -3741,9 +3721,6 @@
 				<form type="variant">Velle</form>
 			</entry>
 			<pc>.</pc>
-			<entry>
-				<sense>1 Ce qui reste du cinquième acte n'est pas divisé en scènes</sense>
-			</entry>
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">Cupido. Cupiditas. Libido. Voluptas</form>
@@ -4211,10 +4188,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>1 Tome XXXVI, p. 269,89 dans le Cicéron de la collection Panckoucke</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<form type="lemma">Destruere. Demoliri</form>
 				<pc>.</pc>
 				<sense>Destruere, abattre une oeuvre d'art; demoliri, une construction
@@ -4623,11 +4596,13 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>Diu, Diuturnus, Diutinus, v</sense>
+				<form type="lemma">Diu, Diuturnus, Diutinus</form>
+				<pc>, v.</pc>
+				<form type="variant">Pridem</form>
 			</entry>
 			<pc>.</pc>
 			<dictScrap>
-				<form type="variant">Pridi</form>
+				<form type="variant"/>
 			</dictScrap>
 			<entry>
 				<form type="lemma">Divellere</form>
@@ -5583,13 +5558,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Fames. Esuries. Inedia</form>
-				<pc>.</pc>
-				<sense>Fames, la faim, comme consé¬ quence du défaut de nourriture, λιμός, par
-					opposition à satietas; esuries, l'envie de manger, comme conséquence du vide et
-					de l'irritation de l'estomac, par opposition à</sense>
-			</entry>
-			<entry>
 				<form type="lemma">Facinus</form>
 				<pc>, v.</pc>
 				<form type="variant">Delictum</form>
@@ -5608,11 +5576,15 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>sitis; enfin, inedia, l'abstinence en général, sans assigna¬ tion de cause,
-					mais de préférence, par acte volontaire, comme ἀσιτία. Fame et esurie perire
-					signifient périr de faim; inedia perire, se laisser mourir de faim</sense>
+				<form type="lemma">Fames. Esuries. Inedia</form>
+				<pc>.</pc>
+				<sense>Fames, la faim, comme consé¬ quence du défaut de nourriture, λιμός, par
+					opposition à satietas; esuries, l'envie de manger, comme conséquence du vide et
+					de l'irritation de l'estomac, par opposition à sitis; enfin, inedia,
+					l'abstinence en général, sans assigna¬ tion de cause, mais de préférence, par
+					acte volontaire, comme ἀσιτία. Fame et esurie perire signifient périr de faim;
+					inedia perire, se laisser mourir de faim</sense>
 			</entry>
-			<pc>.</pc>
 			<entry>
 				<form type="lemma">Familia</form>
 				<pc>, v.</pc>
@@ -6618,13 +6590,9 @@
 				<pc>. 1.</pc>
 				<sense>Gaudere présente la joie comme un état de l'âme, par opposition à dolor,
 					ήδεσθαι ; laetari et hilarem esse, comme une manifestation de cet état. Tac. H.
-					II, 29. Ut Valens processit, gaudium, miseratio, favor; versi in
-					laetitiam..</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>laudantes gratantesque. L'apparition de Valens dispose les soldats à la joie,
-					à l'attendrissement, à l'amour; leur joie se montre, ils le louent, le
+					II, 29. Ut Valens processit, gaudium, miseratio, favor; versi in laetitiam ...
+					laudantes gratantesque. L'apparition de Valens dispose les soldats à la joie, à
+					l'attendrissement, à l'amour; leur joie se montre, ils le louent, le
 					félicitent</sense>
 				<pc>. 2.</pc>
 				<sense>Le laetus manifeste sa joie par une sérénité qui révèle un parfait
@@ -6665,7 +6633,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>Gelicidium, Gelidus, Gelu,</sense>
+				<form type="lemma">Gelicidium, Gelidus, Gelu,</form>
 				<pc>, v.</pc>
 				<form type="variant">Frigere</form>
 			</entry>
@@ -6771,9 +6739,6 @@
 				<pc>. 1.</pc>
 				<sense>Gladius, terme ordi¬ naire; ensis, terme noble et poétique pour désigner
 					l'épée</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<pc>. 2.</pc>
 				<sense>Pugio, le poignard comme arme licite et apparente du soldat outre l'épée;
 					sica, comme arme déshonnête et cachée du bandit, venant en aide au
@@ -7112,7 +7077,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>HIRSUTUS, Hirtus, Hispidus</sense>
+				<form type="lemma">Hirsutus, Hirtus, Hispidus</form>
 				<pc>, v.</pc>
 				<form type="variant">Horridus</form>
 			</entry>
@@ -7143,7 +7108,14 @@
 					nomine appellant, percussores vocant, quaro in cujus fide sint et tutela. Il y
 					avait alors de nombreux sicaires et on tuait avec impunité. Si vous entendez
 					parler des assassins que les gens qui leur veulent donner le nom le plus léger
-					Haud scio an</sense>
+					appellent exécuteurs, cherchez quel est leur protecteur et leur appui</sense>
+				<pc>. 2.</pc>
+				<sense>Le percussor est aux ordres de la puissance poli¬ tique; il frappe des
+					citoyens, des proscrits ; le carnifex, aux ordres de la justice; il sévit contre
+					des coupables</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Haud scio an</form>
 				<pc>, v.</pc>
 				<form type="variant">Forte</form>
 			</entry>
@@ -7166,13 +7138,6 @@
 				<form type="variant">Actor</form>
 			</entry>
 			<pc>.</pc>
-			<entry>
-				<sense>appellent exécuteurs, cherchez quel est leur protecteur et leur appui</sense>
-				<pc>. 2.</pc>
-				<sense>Le percussor est aux ordres de la puissance poli¬ tique; il frappe des
-					citoyens, des proscrits ; le carnifex, aux ordres de la justice; il sévit contre
-					des coupables</sense>
-			</entry>
 			<pc>.</pc>
 			<entry>
 				<form type="lemma">Homo. Mas. Vir. Homunculus. Homuncio. Homullus</form>
@@ -7880,13 +7845,13 @@
 			<entry>
 				<form type="lemma">Infitiari, Infitias ire</form>
 				<pc>, v.</pc>
-				<form type="variant">Ne¬ Inflammare</form>
-				<pc>, v.</pc>
-				<form type="variant">Accendere</form>
+				<form type="variant">Negare</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="variant">gare</form>
+				<form type="lemma">Inflammare</form>
+				<pc>, v.</pc>
+				<form type="variant">Accendere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -8038,7 +8003,10 @@
 					l'esprit; enfin, cogno¬ scere, des notions historiques fondées sur le témoignage
 					des sens et de la tradition. Sen. Ir. III, 13. Quidni gaude- ret, quod iram suam
 					multi intelligerent, nemo sentiret? Je conçois que Socrate ait ressenti un
-					mouvement de joie quand sa coère que tous ses familiers discernaient ne</sense>
+					mouvement de joie quand sa coère que tous ses familiers discernaient ne frappait
+					les yeux de personne. Cic. N. D. III, 24. Quare autem in his vis deorum insit
+					tum intelligam quum cogno¬ vero. Quant à leur divinité, je la comprendrai quand
+					j'au¬ rai appris à la connaître</sense>
 				<form type="lemma">Inopia</form>
 				<pc>, v.</pc>
 				<form type="variant">Paupertas</form>
@@ -8108,12 +8076,6 @@
 				<form type="lemma">Insomnium</form>
 				<pc>, v.</pc>
 				<form type="variant">Somnus</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>frappait les yeux de personne. Cic. N. D. III, 24. Quare autem in his vis
-					deorum insit tum intelligam quum cogno¬ vero. Quant à leur divinité, je la
-					comprendrai quand j'au¬ rai appris à la connaître</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -8498,9 +8460,6 @@
 					rur- sus cadium die, quum denuo se proditum videret. Prévenu dans ce dessein, il
 					soulève une seconde fois les esclaves, fixe encore une fois le jour du massacre,
 					et, se voyant de nouveau trahi</sense>
-			</entry>
-			<pc>..</pc>
-			<entry>
 				<pc>. 2.</pc>
 				<sense>De même, pugnam iterare signifie livrer une seconde bataille ; pugnam
 					repetere, reprendre le combat; pugnam renovare, le renouveler, et pugnam
@@ -10622,10 +10581,11 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>Nihil est. Nihili est. Nullus est. Nihil est exprime le comble de
-					l'impuissance et de l'incapacité, comme être autant que rien; nihili est, le
-					défaut absolu de valeur, l'inutilité complète, comme ne compter pour rien;
-					enfin, nullus est, la négation de l'existence : n'être plus</sense>
+				<form type="lemma">Nihil est. Nihili est. Nullus est.</form>
+				<sense> Nihil est exprime le comble de l'impuissance et de l'incapacité, comme être
+					autant que rien; nihili est, le défaut absolu de valeur, l'inutilité complète,
+					comme ne compter pour rien; enfin, nullus est, la négation de l'existence :
+					n'être plus</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -11934,15 +11894,14 @@
 			<entry>
 				<form type="lemma">Permittere</form>
 				<pc>, v.</pc>
-				<form type="variant">Concedere et</form>
+				<form type="variant">Concedere et Fidere</form>
+			</entry>
+			<entry>
 				<form type="lemma">Pernegare</form>
 				<pc>, v.</pc>
 				<form type="variant">Negare</form>
 			</entry>
 			<pc>.</pc>
-			<entry>
-				<form type="variant">Fide</form>
-			</entry>
 			<entry>
 				<form type="lemma">Pernicies</form>
 				<pc>, v.</pc>
@@ -12740,13 +12699,12 @@
 			<entry>
 				<form type="lemma">Probrum</form>
 				<pc>, v.</pc>
-				<sense>Ignominia et Ma¬ Probus</sense>
+				<sense>Ignominia et Maledictum</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Probus</form>
 				<pc>, v.</pc>
 				<form type="variant">Bonus</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">ledictum</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13066,9 +13024,6 @@
 					confligere immane quiddam et belluarum simile est. Se jeter follement dans la
 					mêlée d'une bataille et se pren¬ dre corps à corps avec l'ennemi, c'est un excès
 					de courage qui tient de la brute</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<pc>.3.</pc>
 				<sense>Dimicare présente l'image d'une lutte soutenue à l'aide de la première arme
 					venue, épée, lance, pique, massue, par un homme qui défend sa vie; il se prend
@@ -13370,13 +13325,12 @@
 			<entry>
 				<form type="lemma">Recipere</form>
 				<pc>, v.</pc>
-				<sense>Polliceri et Su¬ Recitare</sense>
+				<sense>Polliceri et Sumere</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Recitare</form>
 				<pc>, v.</pc>
 				<form type="variant">Eloqui</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">mere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13406,13 +13360,12 @@
 			<entry>
 				<form type="lemma">Recusare</form>
 				<pc>, v.</pc>
-				<sense>Negare et Sper¬ Redimere</sense>
+				<form type="variant">Negare et Spernere</form>
+			</entry>
+			<entry>
+				<form type="lemma">Redimere</form>
 				<pc>, v.</pc>
 				<form type="variant">Emere</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<form type="variant">nere</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13572,7 +13525,11 @@
 					le-champ. Illico, ilicet, à la hâte, se prennent par oppo¬ sition à la lenteur :
 					illico, en prose, comme παραυτίκα; ili¬ cet, chez les comiques et les poètes.
 					Statim et protinus s'opposent au temps qui suit : statim, aussitôt, à deinde,
-					postea, comme εθθύς; protinus, de suite, comme πρόκα. En¬ Remedium</sense>
+					postea, comme εθθύς; protinus, de suite, comme πρόκα. En¬fin, confestim et
+					continuo s'opposent à ex intervallo</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Remedium</form>
 				<pc>, v.</pc>
 				<form type="variant">Mederi</form>
 			</entry>
@@ -13590,18 +13547,11 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>fin, confestim et continuo s'opposent à ex intervallo</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<form type="lemma">Repere. Serpere. Serpens. Anguis. Coluber</form>
 				<pc>. 1.</pc>
 				<sense>Re¬ pere, avancer à l'aide de pieds très-courts, à petits pas, lentement, se
 					traîner; serpere, sans pieds, par une ondu¬ lation du corps entier, et sans
 					bruit, ramper</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<pc>. 2.</pc>
 				<sense>Serpens, nom général pour tout ce qui rampe, à la façon des serpents,
 					ἐρπετόν; anguis, serpent redoutable par la grandeur de sa taille, δφις; coluber,
@@ -13677,10 +13627,11 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>Respectum. Rationem habere. Respectum habere, tenir compte de quelque chose
-					par la pensée et par la réflexion, juger digne d'attention ; rationem habere, en
-					tenir compte dans sa conduite et dans ses mesures, comme d'un moyen qui peut
-					concourir à conduire au but</sense>
+				<form type="lemma">Respectum. Rationem habere.</form>
+				<sense> Respectum habere, tenir compte de quelque chose par la pensée et par la
+					réflexion, juger digne d'attention ; rationem habere, en tenir compte dans sa
+					conduite et dans ses mesures, comme d'un moyen qui peut concourir à conduire au
+					but</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -13752,7 +13703,12 @@
 				<sense>Deridere s'entend, comme καταγελᾶν, d'un rire mo¬ queur considéré comme un
 					trait d'orgueil et de mépris; on rit du haut de sa grandeur; irridere, comme un
 					trait d'insolence ou de malignité; on rit à la barbe des gens, ἐγγελᾶν. Cic.
-					Orat. III, 14. Istos omnes deridete atque con¬ Reticere</sense>
+					Orat. III, 14. Istos omnes deridete atque contemnite. Riez dédaigneusement de
+					tous ces gens-là et mé¬ prisez-les. N. D. II, 3. Claudius etiam per jocum deos
+					irridens. Claudius, qui osait plaisanter et rire à la barbe des dieux</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Reticere</form>
 				<pc>, v.</pc>
 				<form type="variant">Silere</form>
 			</entry>
@@ -13773,12 +13729,6 @@
 				<form type="lemma">Retinacula</form>
 				<pc>, v.</pc>
 				<form type="variant">Laqueus</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>temnite. Riez dédaigneusement de tous ces gens-là et mé¬ prisez-les. N. D.
-					II, 3. Claudius etiam per jocum deos irridens. Claudius, qui osait plaisanter et
-					rire à la barbe des dieux</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -14522,7 +14472,7 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>SeNecta, Senectus, Senium</sense>
+				<form type="lemma">Senecta, Senectus, Senium</form>
 				<pc>, v.</pc>
 				<form type="variant">Vetus</form>
 			</entry>
@@ -14689,7 +14639,10 @@
 			<entry>
 				<form type="lemma">Severus</form>
 				<pc>, v.</pc>
-				<sense>Austerus et Se¬ Sica</sense>
+				<sense>Austerus et Serius</sense>
+			</entry>
+			<entry>
+				<form type="lemma">Sica</form>
 				<pc>, v.</pc>
 				<form type="variant">Gladius</form>
 			</entry>
@@ -14699,7 +14652,21 @@
 				<pc>. 1.</pc>
 				<sense>Silere, ne faire aucun bruit, σωωπᾶν, par opposition à strepere; tacere, ne
 					dire mot, se taire, σιγᾶν, par opposition à loqui, dicere. Le composé reticere
-					signifie se taire quand on a quelque rit</sense>
+					signifie se taire quand on a quelque chose à dire et qu'on le garde pour soi,
+					par opposition à eloqui, proloqui; le composé obticere, obticescere, rester muet
+					en face d'une personne qui adresse une question ou qui attend une explication,
+					par opposition à respondere. Cic. Harusp. 28. Sed tamen facile tacentibus
+					cateris reti¬ cuissem. Il m'eût été facile d'être discret, si les autres avaient
+					su se taire</sense>
+				<pc>. 2.</pc>
+				<sense>Tacens et tacitus présentent le silence comme un état temporaire : tacens se
+					dit de toute personne qui ne parle point; tacitus, de celle qui, ayant sujet de
+					parler, à dessein ne parle point et observe un silence significatif; taciturnus
+					marque une qualité habituelle, comme silen¬ cieux et taciturne. Silva. Saltus.
+					Nemus. Lucus. Silva, forêt en général, abondante en arbres qui fournissent du
+					bois, ὀλη; saltus, forêt considérée comme un lieu sauvage, bois de monta¬ gnes,
+					νάπη; nemus, comme un lieu agréable, bocage, parc; lucus, comme un lieu saint,
+					bois consacré aux dieux, ἀλσος, άλτις</sense>
 			</entry>
 			<entry>
 				<form type="lemma">Sicarius</form>
@@ -14723,23 +14690,6 @@
 				<form type="lemma">Signum</form>
 				<pc>, v.</pc>
 				<form type="variant">Imago</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>chose à dire et qu'on le garde pour soi, par opposition à eloqui, proloqui;
-					le composé obticere, obticescere, rester muet en face d'une personne qui adresse
-					une question ou qui attend une explication, par opposition à respondere. Cic.
-					Harusp. 28. Sed tamen facile tacentibus cateris reti¬ cuissem. Il m'eût été
-					facile d'être discret, si les autres avaient su se taire</sense>
-				<pc>. 2.</pc>
-				<sense>Tacens et tacitus présentent le silence comme un état temporaire : tacens se
-					dit de toute personne qui ne parle point; tacitus, de celle qui, ayant sujet de
-					parler, à dessein ne parle point et observe un silence significatif; taciturnus
-					marque une qualité habituelle, comme silen¬ cieux et taciturne. Silva. Saltus.
-					Nemus. Lucus. Silva, forêt en général, abondante en arbres qui fournissent du
-					bois, ὀλη; saltus, forêt considérée comme un lieu sauvage, bois de monta¬ gnes,
-					νάπη; nemus, comme un lieu agréable, bocage, parc; lucus, comme un lieu saint,
-					bois consacré aux dieux, ἀλσος, άλτις</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -14989,7 +14939,8 @@
 				<pc>.</pc>
 				<sense>Ces quatre termes se disent également d'un esprit qui revient après la mort.
 					Ils diffèrent en ce que spectrum renferme l'idée d'une apparition surnaturelle;
-					mostellum, celle d'une ap¬</sense>
+					mostellum, celle d'une apparition effrayante ; manes, celle d'un esprit
+					bienfaisant; lemures, d'un esprit taquin</sense>
 			</entry>
 			<entry>
 				<form type="lemma">Sons</form>
@@ -15013,11 +14964,6 @@
 				<form type="lemma">Species</form>
 				<pc>, v.</pc>
 				<form type="variant">Figura</form>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>parition effrayante ; manes, celle d'un esprit bienfaisant; lemures, d'un
-					esprit taquin</sense>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -15797,10 +15743,7 @@
 			<entry>
 				<form type="lemma">Terminare, Terminus</form>
 				<pc>, v.</pc>
-				<form type="variant">Finire et</form>
-			</entry>
-			<entry>
-				<form type="variant">Finis</form>
+				<form type="variant">Finire et Finis</form>
 			</entry>
 			<pc>.</pc>
 			<entry>
@@ -16513,11 +16456,7 @@
 				<sense>Varium, bigarré, qui offre plusieurs couleurs à la fois, ποικίλον;
 					versicolor, chatoyant, qui change autant de fois de couleur qu'il y a de
 					manières de l'exposer à la lu¬ mière, αίολον. Propert. III, 13, 32. Aut variam
-					plumaee 1 Traduction de la collection Panckoucke</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
-				<sense>versicoloris avem. Un oiseau bigarré dont le plumage cha¬ toie. Pline
+					plumaee versicoloris avem. Un oiseau bigarré dont le plumage cha¬ toie. Pline
 					(XXXVII, 10) exprime les deux idées par des périphrases lorsqu'il appelle à la
 					fois la pierre mithrax multicolor et contra solem varie refulgens. 4. Variare
 					signifie en général donner un aspect va¬ rié; variegare signifie en particulier
@@ -16572,14 +16511,6 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<form type="lemma">Velle. Optare. Expetere. Cupere. Avere. Gestire</form>
-				<pc>. 1.</pc>
-				<sense>Velle, optare et expetere expriment des actes de la rai¬ son qui se possède
-					et se gouverne; cupere, avere et gestire, des actes du sentiment surexcité et de
-					la passion. Sen. Ep. 116. Cum tibi cupere interdixero, velle permittam</sense>
-			</entry>
-			<pc>.</pc>
-			<entry>
 				<form type="lemma">Vaticinari</form>
 				<pc>, v.</pc>
 				<form type="variant">Divinare et Ha¬ riola</form>
@@ -16591,8 +16522,12 @@
 			</entry>
 			<pc>.</pc>
 			<entry>
-				<sense>Après t'avoir interdit les désirs, je te permettrai d'avoir des
-					volontés</sense>
+				<form type="lemma">Velle. Optare. Expetere. Cupere. Avere. Gestire</form>
+				<pc>. 1.</pc>
+				<sense>Velle, optare et expetere expriment des actes de la rai¬ son qui se possède
+					et se gouverne; cupere, avere et gestire, des actes du sentiment surexcité et de
+					la passion. Sen. Ep. 116. Cum tibi cupere interdixero, velle permittam. Après
+					t'avoir interdit les désirs, je te permettrai d'avoir des volontés</sense>
 				<pc>. 2.</pc>
 				<sense>Velle, vouloir et coopérer à la réalisation de sa pro¬ pre volonté, θέλειν et
 					βούλεσθαι ; optare, souhaiter et s'en remettre à d'autres ou au destin pour la
